@@ -13,3 +13,4 @@ links to useful things on the internet
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) chrome extension; with this installed you can r-click and lassoo any or all the above links, and they'll each open in new tabs.. pretty sweet
 * [Bulk URL Opener](http://melanto.com/apps/bulk-url-opener/) - same kinda vibe as the above except you drop a list of urls into it and hey presto.. good if you want to create a particular workspace / toolset from a pre-prepared list
 * [Typ.IO](http://www.typ.io/) - fonts that go together
+* [CSS Filters](http://css-tricks.com/almanac/properties/f/filter/) - CSS Filter Reference
