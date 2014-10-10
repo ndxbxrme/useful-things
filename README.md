@@ -7,7 +7,7 @@ links to useful things on the internet
 
 * [Dabblet](http://dabblet.com/) - realtime html/css editor
 * [Cubic Bezier Generator](http://cubic-bezier.com/#.91,.09,.83,.67) - generate nice curves
-* [Dillinger](http://dillinger.io/) - cloud-enabled html5 markdown editor
+* [Dillinger](http://dillinger.io/) - cloud-enabled markdown editor
 * [JSFiddle](http://jsfiddle.net/) - jsfiddle, it's simply the bomb
 ```
 to use google fonts in jsfiddle, add the url as an external resource but append &type=.css to trick jsfiddle into adding it as css
