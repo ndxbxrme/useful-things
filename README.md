@@ -10,7 +10,7 @@ links to useful things on the internet
 * [Dillinger](http://dillinger.io/) - cloud-enabled html5 markdown editor
 * [JSFiddle](http://jsfiddle.net/) - jsfiddle, it's simply the bomb
 ```
-to use google fonts in jsfiddle, add the url as an external resource but append &type=.css to trick jsfiddle into add it as css
+to use google fonts in jsfiddle, add the url as an external resource but append &type=.css to trick jsfiddle into adding it as css
 ```
 * [RegExr](http://www.regexr.com/) - helps with regular expressions (could do with testing by a competent person)
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) chrome extension; with this installed you can r-click and lassoo any or all the above links, and they'll each open in new tabs.. pretty sweet
