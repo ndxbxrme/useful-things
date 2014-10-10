@@ -18,3 +18,4 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [Typ.IO](http://www.typ.io/) - fonts that go together
 * [CSS Filters](http://css-tricks.com/almanac/properties/f/filter/) - CSS Filter Reference
 * [CSS Font Stack](http://cssfontstack.com/) - handy font stacks
+* [Gradients Tool](http://www.westciv.com/tools/gradients/) - as on tin
