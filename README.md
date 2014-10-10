@@ -12,3 +12,4 @@ links to useful things on the internet
 * [RegExr](http://www.regexr.com/) - helps with regular expressions (could do with testing by a competent person)
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) chrome extension; with this installed you can r-click and lassoo any or all the above links, and they'll each open in new tabs.. pretty sweet
 * [Bulk URL Opener](http://melanto.com/apps/bulk-url-opener/) - same kinda vibe as the above except you drop a list of urls into it and hey presto.. good if you want to create a particular workspace / toolset from a pre-prepared list
+* [Typ.IO](http://www.typ.io/) - fonts that go together
