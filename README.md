@@ -17,3 +17,4 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [Bulk URL Opener](http://melanto.com/apps/bulk-url-opener/) - same kinda vibe as the above except you drop a list of urls into it and hey presto.. good if you want to create a particular workspace / toolset from a pre-prepared list
 * [Typ.IO](http://www.typ.io/) - fonts that go together
 * [CSS Filters](http://css-tricks.com/almanac/properties/f/filter/) - CSS Filter Reference
+* [CSS Font Stack](http://cssfontstack.com/) - handy font stacks
