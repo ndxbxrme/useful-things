@@ -21,3 +21,6 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [Gradients Tool](http://www.westciv.com/tools/gradients/) - as on tin
 * [Susy](http://susy.oddbird.net/) - scss grids - [tutorial](http://css-tricks.com/build-web-layouts-easily-susy/)
 * [Breakpoint](http://breakpoint-sass.com/) - responsive scss
+* [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
+* [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - Big list of lists for all programming languages
+* [Awesome angular](https://github.com/gianarb/awesome-angularjs) - Large list of angular stuff
