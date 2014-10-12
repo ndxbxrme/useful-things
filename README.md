@@ -23,7 +23,8 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [Breakpoint](http://breakpoint-sass.com/) - responsive scss
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
 * [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - Big list of lists for all programming languages
-* [Awesome angular](https://github.com/gianarb/awesome-angularjs) - Large list of angular stuff
+* [Awesome angular](https://github.com/gianarb/awesome-angularjs) - Large list of angular stuff  
+
 ###javascript libraries
 * [Brain](https://github.com/harthur/brain) - Javascript neural networks
 * [anijs](http://anijs.github.io/) - Simple declarative CSS animations
