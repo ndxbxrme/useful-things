@@ -50,4 +50,25 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [bacon.js](https://github.com/baconjs/bacon.js) - Events as a stream, `needs more looking in to`
 * [basics.css](https://github.com/haydenbleasel/basics) - Intelligent default styles
 * [bignumber.js](http://mikemcl.github.io/bignumber.js/) - Arbitrary-precision arithmetic
-
+* [bitcoin.js](http://bitcoinjs.org/) - Javascript bitcoin library
+* [blueimp md5](https://github.com/blueimp/JavaScript-MD5) - MD5 for both browser and node
+* [bonsai](http://bonsaijs.org/) - Graphics API and SVG renderer
+* [bucky](http://github.hubspot.com/bucky/) - Measure website performance from users' browser
+* [buzz](http://buzz.jaysalvat.com/) - HTML5 Audio API
+* [c3](http://c3js.org/) - Charts
+* [CamanJS](http://camanjs.com/) - Canvas manipulation and image effects
+* [cannon.js](http://schteppe.github.io/cannon.js/) - 3d physics engine
+* [canvasjs](http://canvasjs.com/) - Charts
+* [cascade](http://cascade-framework.com/) - CSS framework
+* [cc-icons](http://cc-icons.github.io/) - Creative commons icons
+* [chancejs](http://chancejs.com/) - Generator of random things
+* [Chardin.js](http://heelhook.github.io/chardin.js/) - Simple overlay instructions
+* [chosen](http://harvesthq.github.io/chosen/) - Select replacement
+* [Chroma.js](https://github.com/gka/chroma.js) - Colour conversion and manipulation
+* [CKEditor](http://ckeditor.com/) - Rich text editor
+* [CodeMirror](http://codemirror.net/) - Code editor
+* [colors](http://clrs.cc/) - Nicer default colours
+* [commandz](https://github.com/EtienneLem/commandz) - Undo/Redo for webapps
+* [conditionizr](http://conditionizr.com/) - Detect front-end environment
+* [crafty](http://craftyjs.com/) - Game engine
+* [crunch](http://crunch.secureroom.net/) - Big number arithmetic
