@@ -72,3 +72,19 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [conditionizr](http://conditionizr.com/) - Detect front-end environment
 * [crafty](http://craftyjs.com/) - Game engine
 * [crunch](http://crunch.secureroom.net/) - Big number arithmetic
+* [cryptico](http://wwwtyro.github.io/cryptico/) - Easy to use encryption using RSA and AES
+* [crypto.js](https://code.google.com/p/crypto-js/) - Implementations of standard and secure crypto algorithms
+* [forge](https://github.com/digitalbazaar/forge) - TLS crypto
+* [Cubism.js](http://square.github.io/cubism/) - Time series charts
+* [Cytoscape.js](http://cytoscape.github.io/cytoscape.js/) - Data visualisation
+* [d3](http://d3js.org/) - Data visualisation
+* [dancer](http://jsantell.github.io/dancer.js/) - Audio API (not working?)
+* [datejs](http://www.datejs.com/) - Date parsing and formatting
+* [dc.js](http://dc-js.github.io/dc.js/) - More charts
+* [depot.js](https://github.com/mkuklis/depot.js) - localStorage wrapper
+* [detectizr](https://github.com/barisaydinoglu/Detectizr) - A Modernizr extension to detect device, model, screensize, os and browser
+* [device.js](https://github.com/matthewhudson/device.js) - Device detection
+* [diff_match_patch](https://code.google.com/p/google-diff-match-patch/) - Text diff, match and patch
+* [dojo](http://dojotoolkit.org/) - App framework
+* [Dragabilly](http://draggabilly.desandro.com/) - Makes things draggable
+* [dygraphs](http://dygraphs.com/) - More charts
