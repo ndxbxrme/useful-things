@@ -26,20 +26,6 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [Awesome angular](https://github.com/gianarb/awesome-angularjs) - Large list of angular stuff  
 
 ###javascript & CSS libraries
-* [Brain](https://github.com/harthur/brain) - Javascript neural networks
-* [CKEditor](http://ckeditor.com/) - Rich text editor
-* [CamanJS](http://camanjs.com/) - Canvas manipulation and image effects
-* [Chardin.js](http://heelhook.github.io/chardin.js/) - Simple overlay instructions
-* [Chroma.js](https://github.com/gka/chroma.js) - Colour conversion and manipulation
-* [CodeMirror](http://codemirror.net/) - Code editor
-* [Cubism.js](http://square.github.io/cubism/) - Time series charts
-* [Cytoscape.js](http://cytoscape.github.io/cytoscape.js/) - Data visualisation
-* [Dragabilly](http://draggabilly.desandro.com/) - Makes things draggable
-* [Embedly jQuery](http://embedly.github.io/embedly-jquery/) - Embed content properly
-* [FitText](http://fittextjs.com/) - Inflates type to fill space
-* [Froala Editor](http://editor.froala.com/) - WYSIWYG text editor
-* [KaTeX](https://khan.github.io/KaTeX/) - Math typesetting
-* [Syntax Highlighter](http://alexgorbatchev.com/SyntaxHighlighter/) - Code syntax highlighter
 * [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 * [ace](https://cdnjs.com/libraries/ace) - Code editor
 * [amcharts](http://www.amcharts.com/) - Robust charts and data visualization
@@ -58,17 +44,23 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [bitcoin.js](http://bitcoinjs.org/) - Javascript bitcoin library
 * [blueimp md5](https://github.com/blueimp/JavaScript-MD5) - MD5 for both browser and node
 * [bonsai](http://bonsaijs.org/) - Graphics API and SVG renderer
+* [Brain](https://github.com/harthur/brain) - Javascript neural networks
 * [bucky](http://github.hubspot.com/bucky/) - Measure website performance from users' browser
 * [buzz](http://buzz.jaysalvat.com/) - HTML5 Audio API
 * [c3](http://c3js.org/) - Charts
+* [CamanJS](http://camanjs.com/) - Canvas manipulation and image effects
 * [cannon.js](http://schteppe.github.io/cannon.js/) - 3d physics engine
 * [canvasjs](http://canvasjs.com/) - Charts
 * [carouFredSel](http://dev7studios.com/plugins/caroufredsel) - Another carousel/gallery
 * [cascade](http://cascade-framework.com/) - CSS framework
 * [cc-icons](http://cc-icons.github.io/) - Creative commons icons
 * [chancejs](http://chancejs.com/) - Generator of random things
+* [Chardin.js](http://heelhook.github.io/chardin.js/) - Simple overlay instructions
 * [chartjs](http://www.chartjs.org/) - HTML5 charts
 * [chosen](http://harvesthq.github.io/chosen/) - Select replacement
+* [Chroma.js](https://github.com/gka/chroma.js) - Colour conversion and manipulation
+* [CKEditor](http://ckeditor.com/) - Rich text editor
+* [CodeMirror](http://codemirror.net/) - Code editor
 * [colorbox](http://www.jacklmoore.com/colorbox/) - Another lightbox/gallery
 * [colors](http://clrs.cc/) - Nicer default colours
 * [commandz](https://github.com/EtienneLem/commandz) - Undo/Redo for webapps
@@ -77,7 +69,9 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [crunch](http://crunch.secureroom.net/) - Big number arithmetic
 * [cryptico](http://wwwtyro.github.io/cryptico/) - Easy to use encryption using RSA and AES
 * [crypto.js](https://code.google.com/p/crypto-js/) - Implementations of standard and secure crypto algorithms
+* [Cubism.js](http://square.github.io/cubism/) - Time series charts
 * [cycle2](http://jquery.malsup.com/cycle2/) - Another slideshow/lightbox/gallery, this one is apparantly mobile friendly
+* [Cytoscape.js](http://cytoscape.github.io/cytoscape.js/) - Data visualisation
 * [d3](http://d3js.org/) - Data visualisation
 * [dancer](http://jsantell.github.io/dancer.js/) - Audio API (not working?)
 * [datejs](http://www.datejs.com/) - Date parsing and formatting
@@ -88,8 +82,10 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [diff_match_patch](https://code.google.com/p/google-diff-match-patch/) - Text diff, match and patch
 * [dojo](http://dojotoolkit.org/) - App framework
 * [dotdotdot](http://dotdotdot.frebsite.nl/) - Advanced ellipsis
+* [Dragabilly](http://draggabilly.desandro.com/) - Makes things draggable
 * [dygraphs](http://dygraphs.com/) - More charts
 * [elasticsearch](http://www.elasticsearch.org/overview/) - Search and analytics, goes with Logstash and Kibana appaz
+* [Embedly jQuery](http://embedly.github.io/embedly-jquery/) - Embed content properly
 * [enquire.js](http://wicky.nillia.ms/enquire.js/) - Device/media detection
 * [entypo](http://entypo.com/) - Pictogram icons
 * [epicEditor](http://epiceditor.com/) - Embeddable markdown editor
@@ -101,12 +97,13 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [favico.js](http://lab.ejci.net/favico.js/) - Jazz up your favicons with animations and video
 * [fineuploader](http://fineuploader.com/) - File uploads (called file-uploader on cdnjs)
 * [fingerprintjs](https://github.com/valve/fingerprintjs/) - Browser fingerprinting
+* [FitText](http://fittextjs.com/) - Inflates type to fill space
 * [fitvids.js](http://fitvidsjs.com/) - Video embedding
 * [fixed-header-table](https://cdnjs.com/libraries/fixed-header-table) - Scrolling table with fixed header
 * [flexie](http://flexiejs.com/) - Cross browser support for the Flexible Box Model
 * [flexslider](http://www.woothemes.com/flexslider/) - Content slider
-* [floatThead](http://mkoryak.github.io/floatThead/) - Locked table headers
 * [floatlabels](http://clubdesign.github.io/floatlabels.js/) - Implements the famous Float Label Pattern(?)
+* [floatThead](http://mkoryak.github.io/floatThead/) - Locked table headers
 * [flot](http://www.flotcharts.org/) - jQuery charts and plotting
 * [flowplayer](https://flowplayer.org/) - Video player
 * [fluidbox](http://terrymun.github.io/Fluidbox/) - Nice lightbox
@@ -117,9 +114,9 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [fotorama](http://fotorama.io/) - Another lightbox
 * [foundation](http://foundation.zurb.com/) - CSS framework
 * [foundicons](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Icons
+* [Froala Editor](http://editor.froala.com/) - WYSIWYG text editor
 * [fullcalendar](http://fullcalendar.io/) - Event calendar, there's an angular version too
 * [fuse.js](http://kiro.me/projects/fuse.html) - Fuzzy search
-* [gRaphael](http://g.raphaeljs.com/) - More charts
 * [galleria](http://galleria.io/) - Another gallery/lightbox
 * [galleriffic](http://www.twospy.com/galleriffic/) - Another gallery/lightbox
 * [garlic.js](http://garlicjs.org/) - Persist form values through refresh or browser close
@@ -131,6 +128,7 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [globalize](https://github.com/jquery/globalize) - Internationalization and localization
 * [gmaps.js](http://hpneo.github.io/gmaps/) - Google Maps made easier
 * [gorillascript](http://ckknight.github.io/gorillascript/) - Best Logo Ever!
+* [gRaphael](http://g.raphaeljs.com/) - More charts
 * [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library
 * [gridster.js](http://gridster.net/) - Drag and drop grid layout
 * [gsap](http://www.greensock.com/gsap-js/) - Animate anything animation framework
@@ -177,10 +175,9 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [iscroll-4](http://cubiq.org/iscroll-4) - Inline scrolling for mobile
 * [isjs](https://github.com/rthor/isjs) - Check data against regular expressions or inbuilt types
 * [isotope](http://isotope.metafizzy.co/) - Responsive filtered and sorted layouts
-* [jCarousel](http://sorgalla.com/jcarousel/) - jQuery gallery carousel
-* [jStorage](http://www.jstorage.info/) - Client side offline data storage
 * [javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - Finite state machine
 * [jcalculator](http://mariusbalaj.com/dev/jcalculator/) - Calculator form input
+* [jCarousel](http://sorgalla.com/jcarousel/) - jQuery gallery carousel
 * [jcrop](http://deepliquid.com/content/Jcrop.html) - Image cropping
 * [jgrowl](http://stanlemon.net/2013/04/14/jgrowl-on-cdnjs/) - Mac like notifications
 * [jkit](http://jquery-jkit.com/) - UI toolkit
@@ -196,16 +193,16 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [jquery-contextMenu](http://medialize.github.io/jQuery-contextMenu/) - Context menus
 * [jquery-countdown](http://keith-wood.name/countdown.html) - Countdown timer
 * [jquery-csv](https://code.google.com/p/jquery-csv/) - CSV handling
-* [jquery-customSelect](https://github.com/adamcoulombe/jquery.customSelect) - CSS Stylable select replacement
 * [jquery-customselect](http://adam.co/lab/jquery/customselect/) - Customizable select boxes
+* [jquery-customSelect](https://github.com/adamcoulombe/jquery.customSelect) - CSS Stylable select replacement
 * [jquery-easytabs](http://os.alfajango.com/easytabs/) - Tabs made easy
 * [jquery-gray](https://github.com/karlhorky/gray) - Grayscale an image in any browser
 * [jquery-history](https://cdnjs.com/libraries/jquery-history) - History handling
 * [jquery-idletimer](https://github.com/thorst/jquery-idletimer) - User activity monitor
 * [jquery-infinitescroll](http://www.infinite-scroll.com/infinite-scroll-jquery-plugin/) - Infinite scrolling
 * [jquery-instagram](http://potomak.github.io/jquery-instagram/) - Shows a list of instagram photos
-* [jquery-lazyloadXT](http://ressio.github.io/lazy-load-xt/) - Lazy loading, maybe with more mobile support
 * [jquery-lazyload](http://www.appelsiini.net/projects/lazyload) - Lazy loading for images
+* [jquery-lazyloadXT](http://ressio.github.io/lazy-load-xt/) - Lazy loading, maybe with more mobile support
 * [jquery-localscroll](https://github.com/flesler/jquery.localScroll) - Animated anchor navigation
 * [jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel) - Cross browser mousewheel support
 * [jquery-notification](http://azproduction.ru/jquery.notification/) - Webkit notifications (not regular ones)
@@ -239,6 +236,8 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [jscrollpane](http://jscrollpane.kelvinluck.com/) - Cross browser stylable scrollbars
 * [jsforce](https://jsforce.github.io/) - Salesforce app framework
 * [jssha](http://caligatio.github.io/jsSHA/) - SHA hashing
+* [jStorage](http://www.jstorage.info/) - Client side offline data storage
+* [KaTeX](https://khan.github.io/KaTeX/) - Math typesetting
 * [mmmenu](http://mmenu.frebsite.nl/) - Website and mobile nav menu
 * [nivo slider](http://dev7studios.com/plugins/nivo-slider) - OK'ish lightbox and gallery
 * [noty](http://ned.im/noty/) - Nice looking notifications
@@ -254,6 +253,7 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - Tiny inline charts
 * [spritely](http://spritely.net/) - Dynamic character and background animation
 * [swipebox](https://brutaldesign.github.io/swipebox/) - Another lightbox plugin
+* [Syntax Highlighter](http://alexgorbatchev.com/SyntaxHighlighter/) - Code syntax highlighter
 * [timeago](http://timeago.yarp.com/) - Makes fuzzy timestamps (e.g. "about 1 day ago")
 * [tocify](http://gregfranko.com/jquery.tocify.js/) - Table of Contents plugin
 * [toggles](http://simontabor.com/labs/toggles/) - Easily stylable toggle buttons
