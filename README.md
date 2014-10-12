@@ -235,10 +235,62 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [js-url](https://github.com/websanova/js-url) - URL parser
 * [jscrollpane](http://jscrollpane.kelvinluck.com/) - Cross browser stylable scrollbars
 * [jsforce](https://jsforce.github.io/) - Salesforce app framework
+* [jsoneditor](https://cdnjs.com/libraries/jsoneditor) - Backend for [jsoneditoronline](http://jsoneditoronline.org)
+* [jspdf](http://parall.ax/products/jspdf) - HTML5 client-side pdf generation
 * [jssha](http://caligatio.github.io/jsSHA/) - SHA hashing
+* [jstimezonedetect](https://cdnjs.com/libraries/jstimezonedetect) - Time zone detection
 * [jStorage](http://www.jstorage.info/) - Client side offline data storage
+* [jstree](http://www.jstree.com/) - Tree view element with a bunch of features
+* [jsxgraph](http://jsxgraph.uni-bayreuth.de/wp/) - Interactive graphs and function plotting
+* [jszip](http://stuk.github.io/jszip/) - Create, read and modify zip files
+* [kartograph](http://kartograph.org/) - SVG maps
 * [KaTeX](https://khan.github.io/KaTeX/) - Math typesetting
+* [kendo-ui-core](https://cdnjs.com/libraries/kendo-ui-core) - Freemium UI elements
+* [kerningjs](http://kerningjs.com/) - Better web typography
+* [keymage](http://kerningjs.com/) - Key binding library
+* [keymaster](https://github.com/madrobby/keymaster) - Hotkey micro-library
+* [kibo](https://github.com/marquete/kibo) - Key binding library
+* [kineticjs](http://kineticjs.com/) - High performance animations, transitions and more
+* [laddaUI](http://msurguy.github.io/ladda-bootstrap/) - Buttons with built in loading indicators (requires bootstrap)
+* [lazyload](https://github.com/rgrove/lazyload/) - Load javascript and CSS files on demand
+* [leaflet-dvf](http://humangeo.github.io/leaflet-dvf/) - Data visualization framework
+* [leaflet](http://leafletjs.com/) - Mobile-friendly interactive maps
+* [leapjs](https://developer.leapmotion.com/leapjs/welcome) - Client for the LeapMotion
+* [less.js](http://lesscss.org/) - CSS pre-processor
+* [lettering.js](http://letteringjs.com/) - Radical web typography
+* [lightbox2](http://lokeshdhakar.com/projects/lightbox2/) - Another lightbox
+* [listjs](http://listjs.com/) - Search, sort and filter for lists
+* [livestamp.js](http://mattbradley.github.io/livestampjs/) - Auto-updating live timestamps
+* [load.js](https://github.com/chriso/load.js) - Javascript lazy loading
+* [localForage](https://github.com/mozilla/localForage) - Offline storage
+* [localStorage](https://github.com/mortzdk/localStorage) - A localStorage polyfill
+* [lodash](https://lodash.com/) - Utility library
+* [log4javascript](http://log4javascript.org/) - Logging tools
+* [loglevel](http://pimterry.github.io/loglevel/) - Minimal logging
+* [lunr.js](http://lunrjs.com/) - Full text search
+* [machina.js](http://machina-js.org/) - Finite state machine
+* [magnific-popup](http://dimsemenov.com/plugins/magnific-popup/) - Another lightbox
+* [markdown.js](https://github.com/evilstreak/markdown-js/) - Markdown parser
+* [marked](https://github.com/chjj/marked) - Markdown parser
+* [masonry](http://masonry.desandro.com/) - Pinterest style layout
+* [math.js](http://mathjs.org/) - Extensive math library
+* [mathjax](http://www.mathjax.org/) - Math formula renderer
+* [melonjs](http://melonjs.org/) - Lightweight game engine
+* [messenger](http://github.hubspot.com/messenger/) - Notifications
+* [metisMenu](http://demo.onokumus.com/metisMenu/) - Responsive nav menu
+* [meyer-reset](http://meyerweb.com/eric/tools/css/reset/) - CSS reset
+* [midi.js](https://cdnjs.com/libraries/midi.js) - MIDI library
+* [minicart.js](http://minicartjs.com/) - PayPal shopping cart integration
+* [mixitup](https://cdnjs.com/libraries/mixitup) - Filtering & sorting plugin
 * [mmmenu](http://mmenu.frebsite.nl/) - Website and mobile nav menu
+* [mobile-detect](http://hgoebl.github.io/mobile-detect.js/) - Device detection
+* [modernizr](https://cdnjs.com/libraries/modernizr) - Browser feature detection
+* [moment.js](http://momentjs.com/) - Parse, validate, manipulate and display dates
+* [money.js](https://github.com/josscrowcroft/money.js) - Currency conversion library
+* [morris.js](http://morrisjs.github.io/morris.js/) - More charts
+* [mousetrap](http://craig.is/killing/mice) - Keyboard binding
+* [musicmetadata](https://cdnjs.com/libraries/musicmetadata) - Meta data parser
+* [nanobar](http://nanobar.micronube.com/) - Progress bar
 * [nivo slider](http://dev7studios.com/plugins/nivo-slider) - OK'ish lightbox and gallery
 * [noty](http://ned.im/noty/) - Nice looking notifications
 * [overscroll](http://azoff.github.io/overscroll/) - Touch scrolling for the browser
@@ -262,45 +314,5 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [uri](https://cdnjs.com/libraries/uri.js) - Library for working with URLs
 * [waitForImages](https://github.com/alexanderdickson/waitForImages) - Get notified when images load
 * [wookmark](http://www.wookmark.com/jquery-plugin) - Pinterest style layout
-* [jsoneditor](https://cdnjs.com/libraries/jsoneditor) - Backend for [jsoneditoronline](http://jsoneditoronline.org)
-* [jspdf](http://parall.ax/products/jspdf) - HTML5 client-side pdf generation
-* [jstimezonedetect](https://cdnjs.com/libraries/jstimezonedetect) - Time zone detection
-* [jstree](http://www.jstree.com/) - Tree view element with a bunch of features
-* [jsxgraph](http://jsxgraph.uni-bayreuth.de/wp/) - Interactive graphs and function plotting
-* [jszip](http://stuk.github.io/jszip/) - Create, read and modify zip files
-* [kartograph](http://kartograph.org/) - SVG maps
-* [kendo-ui-core](https://cdnjs.com/libraries/kendo-ui-core) - Freemium UI elements
-* [kerningjs](http://kerningjs.com/) - Better web typography
-* [keymage](http://kerningjs.com/) - Key binding library
-* [keymaster](https://github.com/madrobby/keymaster) - Hotkey micro-library
-* [kibo](https://github.com/marquete/kibo) - Key binding library
-* [kineticjs](http://kineticjs.com/) - High performance animations, transitions and more
-* [laddaUI](http://msurguy.github.io/ladda-bootstrap/) - Buttons with built in loading indicators (requires bootstrap)
-* [lazyload](https://github.com/rgrove/lazyload/) - Load javascript and CSS files on demand
-* [leaflet-dvf](http://humangeo.github.io/leaflet-dvf/) - Data visualization framework
-* [leaflet](http://leafletjs.com/) - Mobile-friendly interactive maps
-* [leapjs](https://developer.leapmotion.com/leapjs/welcome) - Client for the LeapMotion
-* [less.js](http://lesscss.org/) - CSS pre-processor
-* [lettering.js](http://letteringjs.com/) - Radical web typography
-* [lightbox2](http://lokeshdhakar.com/projects/lightbox2/) - Another lightbox
-* [listjs](http://listjs.com/) - Search, sort and filter for lists
-* [livestamp.js](http://mattbradley.github.io/livestampjs/) - Auto-updating live timestamps
-* [load.js](https://github.com/chriso/load.js) - Javascript lazy loading
-* [localStorage](https://github.com/mortzdk/localStorage) - A localStorage polyfill
-* [localForage](https://github.com/mozilla/localForage) - Offline storage
-* [lodash](https://lodash.com/) - Utility library
-* [log4javascript](http://log4javascript.org/) - Logging tools
-* [loglevel](http://pimterry.github.io/loglevel/) - Minimal logging
-* [lunr.js](http://lunrjs.com/) - Full text search
-* [machina.js](http://machina-js.org/) - Finite state machine
-* [magnific-popup](http://dimsemenov.com/plugins/magnific-popup/) - Another lightbox
-* [markdown.js](https://github.com/evilstreak/markdown-js/) - Markdown parser
-* [marked](https://github.com/chjj/marked) - Markdown parser
-* [masonry](http://masonry.desandro.com/) - Pinterest style layout
-* [mathjax](http://www.mathjax.org/) - Math formula renderer
-* [math.js](http://mathjs.org/) - Extensive math library
-* [melonjs](http://melonjs.org/) - Lightweight game engine
-* [messenger](http://github.hubspot.com/messenger/) - Notifications
-* 
 
 
