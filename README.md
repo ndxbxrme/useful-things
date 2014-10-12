@@ -156,4 +156,20 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [iCheck](http://fronteed.com/iCheck/) - Customizable checkboxes and radio buttons
 * [iscroll-4](http://cubiq.org/iscroll-4) - Inline scrolling for mobile
 * [idbwrapper](https://github.com/jensarps/IDBWrapper) - Cross browser wrapper for HTML5 IndexedDB API
-* 
+* [ifvisible](https://github.com/serkanyersen/ifvisible.js) - User interaction detection
+* [imagine.js](http://vladakilov.github.io/imagine/) - HTML5 Canvas library
+* [imageareaselect](https://cdnjs.com/libraries/imgareaselect) - Select image area/crop images
+* [impress.js](http://bartaz.github.io/impress.js/) - Presentation framework
+* [infinity](http://airbnb.github.io/infinity/) - Infinite scroll
+* [ink](http://ink.sapo.pt/) - Responsive framework
+* [insight.js](http://scottlogic.github.io/insight/#/) - Data aggregation and visualization library
+* [intercom](https://github.com/diy/intercom.js) - Client side cross-window messaging
+* [intro.js](http://usablica.github.io/intro.js/) - Demo website features with a step-by-step guide
+* [ionic](https://cdnjs.com/libraries/ionic) - Mobile app framework
+* [ionicons](https://cdnjs.com/libraries/ionicons) - Icons from ionic
+* [dotdotdot](http://dotdotdot.frebsite.nl/) - Advanced ellipsis
+* [mmmenu](http://mmenu.frebsite.nl/) - Website and mobile nav menu
+* [jscrollpane](http://jscrollpane.kelvinluck.com/) - Cross browser stylable scrollbars
+* [jStorage](http://www.jstorage.info/) - Client side offline data storage
+* [javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - Finite state machine
+* [jcalculator](http://mariusbalaj.com/dev/jcalculator/) - Calculator form input
