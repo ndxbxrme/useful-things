@@ -214,4 +214,10 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [jquery-throttle-debounce](https://github.com/cowboy/jquery-throttle-debounce) - Throttle functions
 * [timeago](http://timeago.yarp.com/) - Makes fuzzy timestamps (e.g. "about 1 day ago")
 * [toggles](http://simontabor.com/labs/toggles/) - Easily stylable toggle buttons
+* [jquery-treegrid](http://maxazan.github.io/jquery-treegrid/) - Tree grid element
+* [jquery-tubeplayer](https://github.com/nirvanatikku/jQuery-TubePlayer-Plugin) - jQuery wrapper around youtube API
+* [jqueryui-map](https://code.google.com/p/jquery-ui-map/) - Google maps plugin
+* [jqueryui-timepicker](http://trentrichardson.com/examples/timepicker/) - Time picker plugin
+* [purl](https://github.com/allmarkedup/purl) - URL parser
+* [jquery-allowed-chars](https://github.com/fosco-maestro/jquery-allowed-chars-simple-plugin) - Only allow certain chars in an input
 * 
