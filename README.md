@@ -314,5 +314,42 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [uri](https://cdnjs.com/libraries/uri.js) - Library for working with URLs
 * [waitForImages](https://github.com/alexanderdickson/waitForImages) - Get notified when images load
 * [wookmark](http://www.wookmark.com/jquery-plugin) - Pinterest style layout
+* [nanogallery](http://nanogallery.brisbois.fr/) - Another gallery/lightbox
+* [ng-clip](https://github.com/asafdav/ng-clip) - Angular Copy to Clipboard
+* [ng-csv](https://github.com/asafdav/ng-csv) - Angular directive that turns objects into downloadable CSV files
+* [ng-dialog](http://likeastore.github.io/ngDialog/) - Modals and popups for angular
+* [ng-grid](http://angular-ui.github.io/ng-grid/) - Angular data grid
+* [ng-tags-input](http://mbenford.github.io/ngTagsInput/) - Tags input directive for angular
+* [nicescroll](http://nicescroll.areaaperta.com/) - Scrollbar replacement
+* [ninjaui](http://ninjaui.com/) - UI Components
+* [nouislider](http://refreshless.com/nouislider/) - Range slider form element
+* [noisy](http://rappdaniel.com/noisy/) - Add random noise to the background of any element
+* [normalize](https://cdnjs.com/libraries/normalize) - Makes browsers render consistently
+* [nprogress](http://ricostacruz.com/nprogress/) - Progress bar
+* [numeral.js](http://numeraljs.com/) - Format and manipulate numbers
+* [nvd3](http://nvd3.org/) - More charts
+* [oauth-io](https://cdnjs.com/libraries/oauth-io) - Authorize your user
+* [ocanvas](http://ocanvas.org/) - Object based approach to canvas drawing
+* [octicons](https://octicons.github.com/) - Github icon font
+* [odometer](http://github.hubspot.com/odometer/docs/welcome/) - Transition numbers with ease
+* [openlayers](http://openlayers.org/) - JS library for building map applications on the web
+* [owlcarousel](http://owlgraphic.com/owlcarousel/) - Another carousel/gallery
+* [p2.js](https://cdnjs.com/libraries/p2.js) - 2D physics engine
+* [p5.js](http://p5js.org/) - Create graphic and interactive experiences based on the core principles of Processing
+* [pablo](http://pablojs.com/) - SVG library
+* [pace](http://github.hubspot.com/pace/) - Progress bar
+* [packery](http://packery.metafizzy.co/) - Pinterest style layout
+* [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - Markdown editor
+* [paper.js](http://paperjs.org/) - SVG graphic scripting
+* [parallax.js](http://matthew.wagerfield.com/parallax/) - Mobile enabled parallax fun
+* [paypaljsbutton](http://paypal.github.io/JavaScriptButtons/) - PayPal payment buttons
+* [peerjs](http://peerjs.com/) - Simplified WebRTC p2p data, video and audio
+* [pegjs](http://pegjs.majda.cz/) - Parser generator for JS
+* [phaser](http://phaser.io/) - Open source desktop and mobile game framework
+* [photoswipe](http://photoswipe.com/) - Image gallery for mobile and touch devices
+* [pickadate](http://amsul.ca/pickadate.js/) - Mobile friendly date and time pickers
+* [picturefill](http://scottjehl.github.io/picturefill/) - Responsive polyfil for srcset= etc
+* [piecon](https://github.com/lipka/piecon) - Tiny pie charts in your favicon
+* [piwik](http://piwik.org/) - Open source alternative to Google Analytics
 
 
