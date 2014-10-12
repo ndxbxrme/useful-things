@@ -291,29 +291,6 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [mousetrap](http://craig.is/killing/mice) - Keyboard binding
 * [musicmetadata](https://cdnjs.com/libraries/musicmetadata) - Meta data parser
 * [nanobar](http://nanobar.micronube.com/) - Progress bar
-* [nivo slider](http://dev7studios.com/plugins/nivo-slider) - OK'ish lightbox and gallery
-* [noty](http://ned.im/noty/) - Nice looking notifications
-* [overscroll](http://azoff.github.io/overscroll/) - Touch scrolling for the browser
-* [pep.js](http://pep.briangonzalez.org/) - Kinetic drag and drop
-* [powertip](http://stevenbenner.github.io/jquery-powertip/) - Hover tooltips
-* [purl](https://github.com/allmarkedup/purl) - URL parser
-* [simpleweatherjs](http://simpleweatherjs.com/) - Get the current weather
-* [slicknav](http://slicknav.com/) - mobile nav menu
-* [sly](http://darsa.in/sly/) - Item list and scrollbar replacement
-* [smoove](http://smoove.donlabs.com/) - Trigger events on scroll
-* [soundjs](http://www.createjs.com/#!/SoundJS) - HTML5 audio API
-* [sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - Tiny inline charts
-* [spritely](http://spritely.net/) - Dynamic character and background animation
-* [swipebox](https://brutaldesign.github.io/swipebox/) - Another lightbox plugin
-* [Syntax Highlighter](http://alexgorbatchev.com/SyntaxHighlighter/) - Code syntax highlighter
-* [timeago](http://timeago.yarp.com/) - Makes fuzzy timestamps (e.g. "about 1 day ago")
-* [tocify](http://gregfranko.com/jquery.tocify.js/) - Table of Contents plugin
-* [toggles](http://simontabor.com/labs/toggles/) - Easily stylable toggle buttons
-* [transit](http://ricostacruz.com/jquery.transit/) - Smooth jQuery animations
-* [uniform](http://uniformjs.com/) - Form element styling
-* [uri](https://cdnjs.com/libraries/uri.js) - Library for working with URLs
-* [waitForImages](https://github.com/alexanderdickson/waitForImages) - Get notified when images load
-* [wookmark](http://www.wookmark.com/jquery-plugin) - Pinterest style layout
 * [nanogallery](http://nanogallery.brisbois.fr/) - Another gallery/lightbox
 * [ng-clip](https://github.com/asafdav/ng-clip) - Angular Copy to Clipboard
 * [ng-csv](https://github.com/asafdav/ng-csv) - Angular directive that turns objects into downloadable CSV files
@@ -322,9 +299,11 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [ng-tags-input](http://mbenford.github.io/ngTagsInput/) - Tags input directive for angular
 * [nicescroll](http://nicescroll.areaaperta.com/) - Scrollbar replacement
 * [ninjaui](http://ninjaui.com/) - UI Components
-* [nouislider](http://refreshless.com/nouislider/) - Range slider form element
+* [nivo slider](http://dev7studios.com/plugins/nivo-slider) - OK'ish lightbox and gallery
 * [noisy](http://rappdaniel.com/noisy/) - Add random noise to the background of any element
 * [normalize](https://cdnjs.com/libraries/normalize) - Makes browsers render consistently
+* [noty](http://ned.im/noty/) - Nice looking notifications
+* [nouislider](http://refreshless.com/nouislider/) - Range slider form element
 * [nprogress](http://ricostacruz.com/nprogress/) - Progress bar
 * [numeral.js](http://numeraljs.com/) - Format and manipulate numbers
 * [nvd3](http://nvd3.org/) - More charts
@@ -333,6 +312,7 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [octicons](https://octicons.github.com/) - Github icon font
 * [odometer](http://github.hubspot.com/odometer/docs/welcome/) - Transition numbers with ease
 * [openlayers](http://openlayers.org/) - JS library for building map applications on the web
+* [overscroll](http://azoff.github.io/overscroll/) - Touch scrolling for the browser
 * [owlcarousel](http://owlgraphic.com/owlcarousel/) - Another carousel/gallery
 * [p2.js](https://cdnjs.com/libraries/p2.js) - 2D physics engine
 * [p5.js](http://p5js.org/) - Create graphic and interactive experiences based on the core principles of Processing
@@ -345,11 +325,158 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [paypaljsbutton](http://paypal.github.io/JavaScriptButtons/) - PayPal payment buttons
 * [peerjs](http://peerjs.com/) - Simplified WebRTC p2p data, video and audio
 * [pegjs](http://pegjs.majda.cz/) - Parser generator for JS
+* [pep.js](http://pep.briangonzalez.org/) - Kinetic drag and drop
 * [phaser](http://phaser.io/) - Open source desktop and mobile game framework
 * [photoswipe](http://photoswipe.com/) - Image gallery for mobile and touch devices
 * [pickadate](http://amsul.ca/pickadate.js/) - Mobile friendly date and time pickers
 * [picturefill](http://scottjehl.github.io/picturefill/) - Responsive polyfil for srcset= etc
 * [piecon](https://github.com/lipka/piecon) - Tiny pie charts in your favicon
 * [piwik](http://piwik.org/) - Open source alternative to Google Analytics
+* [pizza](http://zurb.com/playground/pizza-pie-charts) - Responsive Pie charts
+* [pleasejs](https://github.com/Fooidge/PleaseJS) - Create random pleasing colours and colour schemes
+* [pnotify](http://sciactive.com/pnotify/) - Notifications
+* [polyglot](http://ixtendo.com/polyglot-language-switcher-jquery-plugin/) - Language switcher
+* [polymaps](http://polymaps.org/) - Dynamic interactive maps
+* [polymer](https://www.polymer-project.org/) - Web components
+* [postal.js](https://github.com/postaljs/postal.js) - PubSub library
+* [pouchDB](http://pouchdb.com/) - Pocket sized database that syncs with CouchDB
+* [powertip](http://stevenbenner.github.io/jquery-powertip/) - Hover tooltips
+* [prettify](https://code.google.com/p/google-code-prettify/) - Syntax highlighing of code snippets
+* [prismjs](http://prismjs.com/) - Lightweight syntax highlighting
+* [processing.js](http://processingjs.org/) - Visualization language
+* [proj4js](http://proj4js.org/) - Convert coordinates from one coordinate system to another
+* [protovis](http://mbostock.github.io/protovis/) - Data visualization toolkit
+* [psd.js](http://meltingice.github.io/psd.js/) - Photoshop file parser
+* [pubnub](http://www.pubnub.com/) - Realtime cloud hosted broadcasting service for mass communication
+* [pure](http://purecss.io/) - Responsive CSS framework
+* [purl](https://github.com/allmarkedup/purl) - URL parser
+* [pusher](http://pusher.com/) - Real time web apps
+* [pym](http://blog.apps.npr.org/pym.js/) - Resize an iFrame responsively
+* [q](https://github.com/kriskowal/q) - *The* javascript promises library
+* [qtip2](http://qtip2.com/) - Tooltips
+* [quicksound.js](https://github.com/tfriedel6/quicksound.js) - Simple WebAudio sound library with flash fallback
+* [quojs](http://quojs.tapquo.com/) - Mobile micro-framework
+* [r2d3](https://github.com/mhemesath/r2d3) - More charts
+* [rachet](http://goratchet.com/) - HTML, CSS and JS components for building mobile apps
+* [radio](http://radio.uxder.com/) - PubSub library
+* [rainbow](http://craig.is/making/rainbows/) - Code syntax highlighting
+* [randomColor](http://llllll.li/randomColor/) - Random colour generator
+* [rangy](https://github.com/timdown/rangy) - Text ranges and highlighting
+* [raphael](http://raphaeljs.com/) - Vector graphics library
+* [raven](https://github.com/getsentry/raven-js) - JS client for Sentry
+* [react](http://facebook.github.io/react/) - Library for building user interfaces
+* [remoteStorage](http://remotestorage.io/) - Library for the open remote storage protocol
+* [repo.js](http://darcyclarke.me/dev/repojs/) - Embed a github repo
+* [require](https://cdnjs.com/libraries/require.js) - JS file and module loader
+* [responsive-nav](http://responsive-nav.com/) - Responsive navigation plugin
+* [restangular](https://github.com/mgonto/restangular) - REST for angular apps
+* [resumable](http://www.resumablejs.com/) - Multiple simultaneous, resumable uploads via HTML5 file API
+* [retinajs](http://retinajs.com/) - Serve high-resolution images to retina devices
+* [revealjs](http://lab.hakim.se/reveal-js/#/) - HTML presentations
+* [rickshaw](http://code.shutterstock.com/rickshaw/) - Interactive realtime graphs
+* [rimg](http://joeyvandijk.github.io/rimg/) - Responsive images for browsers that support mediaqueries
+* [s3colors](http://shaz3e.github.io/S3-Colors/) - CSS Colour classes
+* [sass.js](https://github.com/medialize/sass.js) - Sass parser
+* [screenfull.js](https://github.com/sindresorhus/screenfull.js) - Wrapper for Fullscreen API
+* [seedrandom](https://github.com/davidbau/seedrandom) - Seeded random number generator
+* [select2](http://ivaynberg.github.io/select2/) - Select replacement
+* [selectivizr](http://selectivizr.com/) - Emulates css3 selectors  in IE 6-8
+* [semanticUI](http://semantic-ui.com/) - UI
+* [shinejs](http://bigspaceship.github.io/shine.js/) - Pretty shadows
+* [showdown](https://github.com/showdownjs/showdown) - JS port of markdown
+* [sidecomments.js](http://aroc.github.io/side-comments-demo/) - Medium style side comments
+* [simple-text-rotator](http://www.thepetedesign.com/demos/jquery_super_simple_text_rotator_demo.html) - Changing headlines
+* [simplecart.js](http://simplecartjs.org/) - Open source shopping cart
+* [simplemodal](http://www.ericmmartin.com/projects/simplemodal/) - Simple modals
+* [simpleweatherjs](http://simpleweatherjs.com/) - Get the current weather
+* [sjcl](https://cdnjs.com/libraries/sjcl) - Stanford Javascript Crypto Library, high-level crypto
+* [skeleton](http://www.getskeleton.com/) - Responsive framework
+* [sketch.js](https://github.com/soulwire/sketch.js/) - Cross platform javascript creative coding framework
+* [skrollr](http://prinzhorn.github.io/skrollr/) - Parallax scrolling
+* [skycons](http://darkskyapp.github.io/skycons/) - Animated weather icons
+* [slabtext](https://cdnjs.com/libraries/slabtext) - Big, bold & responsive headlines
+* [slicknav](http://slicknav.com/) - mobile nav menu
+* [slidebars](http://plugins.adchsm.me/slidebars/) - App style revealing menus and sidebars
+* [slidejs](http://slidesjs.com/) - Responsive slideshow
+* [sly](http://darsa.in/sly/) - Item list and scrollbar replacement
+* [smoove](http://smoove.donlabs.com/) - Trigger events on scroll
+* [snap.svg](http://snapsvg.io/) - SVG library
+* [social-likes](http://sapegin.github.io/social-likes/) - Social Like buttons
+* [socket.io](http://socket.io/) - Websockets
+* [soundjs](http://www.createjs.com/#!/SoundJS) - HTML5 audio API
+* [sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - Tiny inline charts
+* [speakingurl](https://cdnjs.com/libraries/speakingurl) - Generate nice url slugs
+* [spectrum](http://bgrins.github.io/spectrum/) - JQuery colourpicker
+* [spin.js](http://fgnass.github.io/spin.js/) - Dreaded loading spinners
+* [spritely](http://spritely.net/) - Dynamic character and background animation
+* [stellar.js](http://markdalgleish.com/projects/stellar.js/) - Parallax scrolling library
+* [store.js](https://cdnjs.com/libraries/store.js) - A localStorage wrapper
+* [string.js](http://stringjs.com/) - String manipulation functions
+* [string_score](https://github.com/joshaven/string_score) - Ranked matching for strings
+* [strophe.js](http://strophe.im/strophejs/) - XMPP library
+* [stylus](http://learnboost.github.io/stylus/) - CSS superset
+* [subkit.js](http://subkit.io/) - Microservice backends(?)
+* [svg.js](http://svgjs.com/) - Lightweight library for manipulating and animating SVG
+* [swfobject](https://code.google.com/p/swfobject/) - Embed flash files
+* [swipebox](https://brutaldesign.github.io/swipebox/) - Another lightbox plugin
+* [swipejs](http://swipejs.com/) - Mobile slider with 1to1 movement
+* [sylvester](http://sylvester.jcoglan.com/) - Vector and matrix math library
+* [Syntax Highlighter](http://alexgorbatchev.com/SyntaxHighlighter/) - Code syntax highlighter
+* [tabcomplete](http://erming.github.io/tabcomplete/) - Simple Tab complete for inputs and textareas
+* [tabletop](https://github.com/jsoma/tabletop) - Takes a Google Spreadsheet and makes it accessible to JS
+* [taffydb](http://www.taffydb.com/) - Brings database features to Javascript applications
+* [tagsmanager](http://welldonethings.com/tags/manager/v3) - Tag input element
+* [textangular](https://cdnjs.com/libraries/textangular) - Angular WYSIWYG editor
+* [threejs](http://threejs.org/) - OpenGL 3D library
+* [timeago](http://timeago.yarp.com/) - Makes fuzzy timestamps (e.g. "about 1 day ago")
+* [timeline](http://timeline.knightlab.com/) - Interactive timelines
+* [tinycolor](http://bgrins.github.io/TinyColor/) - Colour manipulation and conversion
+* [tinycon](http://blog.tommoor.com/tinycon/) - Favicon manipulation
+* [tinymce](http://www.tinymce.com/) - Rich text editor
+* [tinyscrollbar](http://baijs.nl/tinyscrollbar/) - Scrollbar replacement
+* [toastrjs](http://codeseven.github.io/toastr/) - Notifications
+* [tocify](http://gregfranko.com/jquery.tocify.js/) - Table of Contents plugin
+* [toggles](http://simontabor.com/labs/toggles/) - Easily stylable toggle buttons
+* [tooltipster](http://iamceege.github.io/tooltipster/) - Tooltips
+* [topcoat-icons](https://cdnjs.com/libraries/topcoat-icons) - Icons from Topcoat
+* [topcoat](http://topcoat.io/) - Responsive CSS framework
+* [toxiclibs](http://haptic-data.com/toxiclibsjs) - Computer art
+* [transit](http://ricostacruz.com/jquery.transit/) - Smooth jQuery animations
+* [trianglify](http://qrohlf.com/trianglify/) - Make triangular svg meshes
+* [tweenjs](http://www.createjs.com/#!/TweenJS) - Tween HTML and JS properties
+* [twillio](https://www.twilio.com/docs/client/twilio-js) - Establish audio connections from the browser
+* [twitterlib](https://github.com/remy/twitterlib/) - Twitter JS API
+* [twix](http://isaaccambron.com/twix.js/) - Moment.js plugin for handling date ranges
+* [two.js](http://jonobr1.github.io/two.js/) - 2 dimensional drawing API
+* [typeahead](http://twitter.github.io/typeahead.js/) - Autocomplete library
+* [uikit](http://getuikit.com/) - Front end framework
+* [underscore.string](http://epeli.github.io/underscore.string/) - String manipulation functions
+* [underscore](http://jashkenas.github.io/underscore/) - Object/Array manipulation functions
+* [uniform](http://uniformjs.com/) - Form element styling
+* [unsemantic](http://unsemantic.com/) - Percentage based responsive CSS framework
+* [unveil](https://cdnjs.com/libraries/unveil) - Lazy load images
+* [uri](https://cdnjs.com/libraries/uri.js) - Library for working with URLs
+* [userinfo](https://github.com/vdurmont/userinfo-js) - IP address and geolocation info for users
+* [validator.js](https://github.com/chriso/validator.js) - String validation and sanitization
+* [vega](http://trifacta.github.io/vega/) - Data visualization language
+* [velocity](http://julian.com/research/velocity/) - Accelerated JS animation
+* [video.js](https://cdnjs.com/libraries/video.js) - Open source HTML5 & Flash video player
+* [vis](http://visjs.org/) - Data visualization library
+* [waitForImages](https://github.com/alexanderdickson/waitForImages) - Get notified when images load
+* [watch](https://github.com/darcyclarke/Watch.js) - jQuery watch for CSS property change
+* [wavesurfer](http://www.wavesurfer.fm/) - Navigatable waveform audio player
+* [waypoints](https://cdnjs.com/libraries/waypoints) - Execute a function when you scroll to an element
+* [weather-icons](http://erikflowers.github.io/weather-icons/) - Weather Icons
+* [web-starter-kit](https://developers.google.com/web/starter-kit/) - Google Web Starter Kit
+* [webfont](https://developers.google.com/fonts/docs/webfont_loader?csw=1) - Google Web Font Loader
+* [webicons](http://www.usewebicons.com/) - Social web icons
+* [webuploader](http://fex.baidu.com/webuploader/) - File Uploader
+* [when](https://cdnjs.com/libraries/when) - Promises implementation
+* [winjs](http://try.buildwinjs.com/#listview) - UI for webapp development
+* [wookmark](http://www.wookmark.com/jquery-plugin) - Pinterest style layout
+* [wow](http://mynameismatthieu.com/WOW/) - CSS animations when you scroll
+* [wuzzle](https://cdnjs.com/libraries/wuzzle) - Responsive CSS grid system
+* [wysihtml5](http://xing.github.io/wysihtml5/) - WYSIWYG editor
+* [x-editable](http://vitalets.github.io/x-editable/) - Weird form editor
 
 
