@@ -88,3 +88,72 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [dojo](http://dojotoolkit.org/) - App framework
 * [Dragabilly](http://draggabilly.desandro.com/) - Makes things draggable
 * [dygraphs](http://dygraphs.com/) - More charts
+* [elasticsearch](http://www.elasticsearch.org/overview/) - Search and analytics, goes with Logstash and Kibana appaz
+* [Embedly jQuery](http://embedly.github.io/embedly-jquery/) - Embed content properly
+* [enquire.js](http://wicky.nillia.ms/enquire.js/) - Device/media detection
+* [entypo](http://entypo.com/) - Pictogram icons
+* [epicEditor](http://epiceditor.com/) - Embeddable markdown editor
+* [epoch](http://fastly.github.io/epoch/) - Data visulaisation
+* [equalize.js](http://tsvensen.github.io/equalize.js/) - Equalize the height or width of elements
+* [fabricjs](http://fabricjs.com/) - HTML5 canvas library
+* [fancybox](http://fancyapps.com/fancybox/) - Lightbox plugin
+* [favico.js](http://lab.ejci.net/favico.js/) - Jazz up your favicons with animations and video
+* [fineuploader](http://fineuploader.com/) - File uploads (called file-uploader on cdnjs)
+* [fingerprintjs](https://github.com/valve/fingerprintjs/) - Browser fingerprinting
+* [fitvids.js](http://fitvidsjs.com/) - Video embedding
+* [fixed-header-table](https://cdnjs.com/libraries/fixed-header-table) - Scrolling table with fixed header
+* [flexie](http://flexiejs.com/) - Cross browser support for the Flexible Box Model
+* [flexslider](http://www.woothemes.com/flexslider/) - Content slider
+* [floatlabels](http://clubdesign.github.io/floatlabels.js/) - Implements the famous Float Label Pattern(?)
+* [floatThead](http://mkoryak.github.io/floatThead/) - Locked table headers
+* [flot](http://www.flotcharts.org/) - jQuery charts and plotting
+* [flowplayer](https://flowplayer.org/) - Video player
+* [fluidbox](http://terrymun.github.io/Fluidbox/) - Nice lightbox
+* [fontawesome](http://fontawesome.io/) - Iconic font
+* [fotorama](http://fotorama.io/) - Another lightbox
+* [foundation](http://foundation.zurb.com/) - CSS framework
+* [foundicons](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Icons
+* [Froala Editor](http://editor.froala.com/) - WYSIWYG text editor
+* [fullcalendar](http://fullcalendar.io/) - Event calendar, there's an angular version too
+* [fuse.js](http://kiro.me/projects/fuse.html) - Fuzzy search
+* [galleria](http://galleria.io/) - Another gallery/lightbox
+* [galleriffic](http://www.twospy.com/galleriffic/) - Another gallery/lightbox
+* [garlic.js](http://garlicjs.org/) - Persist form values through refresh or browser close
+* [gas](https://github.com/CardinalPath/gas) - Google Analytics on steroids
+* [geo-location-javascript](https://code.google.com/p/geo-location-javascript/) - Geo location framework
+* [gist-embed](http://blairvanderhoof.com/gist-embed/) - Embed Gists
+* [github-fork-ribbon](https://cdnjs.com/libraries/github-fork-ribbon-css) - Fork me on github corner ribbon
+* [gl-matrix](https://github.com/toji/gl-matrix) - Matrix and vector math for WebGL apps
+* [globalize](https://github.com/jquery/globalize) - Internationalization and localization
+* [gmaps.js](http://hpneo.github.io/gmaps/) - Google Maps made easier
+* [gorillascript](http://ckknight.github.io/gorillascript/) - Best Logo Ever!
+* [gRaphael](http://g.raphaeljs.com/) - More charts
+* [gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library
+* [gsap](http://www.greensock.com/gsap-js/) - Animate anything animation framework
+* [gumby](http://gumbyframework.com/) - CSS Framework
+* [h5validate](http://ericleads.com/h5validate/) - HTML5 form validation
+* [hallo](http://hallojs.org/) - WYSIWYG editor
+* [hammer](http://hammerjs.github.io/) - Multitouch gestures
+* [headjs](http://headjs.com/) - Browser/device/media detection
+* [headroom](http://wicky.nillia.ms/headroom.js/) - Hides header until it is needed
+* [highcharts](http://www.highcharts.com/) - More charts
+* [highlightjs](https://highlightjs.org/) - Syntax highlighting
+* [highmaps](https://cdnjs.com/libraries/highmaps) - Highcharts maps module
+* [highstock](https://cdnjs.com/libraries/highstock) - Stock market highcharts module
+* [hinclude](http://mnot.github.io/hinclude/) - Include for webpages
+* [historyjs](https://github.com/browserstate/history.js/) - More control over browsing history
+* [holder.js](http://imsky.github.io/holder/) - Client side image holders
+* [hover.css](https://cdnjs.com/libraries/hover.css) - Collection of CSS3 hover effects for buttons etc
+* [howler](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) - HTML5 Audio library
+* [html2canvas](http://html2canvas.hertzen.com/) - Render html to canvas
+* [html5historyAPI](https://github.com/devote/HTML5-History-API) - More control over browsing history
+* [html5media](http://html5media.info/) - Enable <video> and <audio> in older browsers
+* [html5shiv](https://github.com/aFarkas/html5shiv) - Bring IE more up to date
+* [humane.js](http://wavded.github.io/humane-js/) - Notifications
+* [humanize](https://github.com/HubSpot/humanize) - Bunch of functions to make output more humane
+* [i18next](http://i18next.com/) - Internationalization
+* [i3d3](https://github.com/eigenhombre/i3d3) - More charts
+* [iCheck](http://fronteed.com/iCheck/) - Customizable checkboxes and radio buttons
+* [iscroll-4](http://cubiq.org/iscroll-4) - Inline scrolling for mobile
+* [idbwrapper](https://github.com/jensarps/IDBWrapper) - Cross browser wrapper for HTML5 IndexedDB API
+* 
