@@ -173,3 +173,45 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [jStorage](http://www.jstorage.info/) - Client side offline data storage
 * [javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - Finite state machine
 * [jcalculator](http://mariusbalaj.com/dev/jcalculator/) - Calculator form input
+* [jCarousel](http://sorgalla.com/jcarousel/) - jQuery gallery carousel
+* [jo](http://joapp.com/) - Mobile app framework
+* [jointjs](http://jointjs.com/) - Diagramming library (more than just charts!)
+* [joyride](http://zurb.com/playground/jquery-joyride-feature-tour-plugin) - Website feature tours
+* [jplayer](http://www.jplayer.org/) - HTML5 Audio player
+* [backstretch](http://srobbin.com/jquery-plugins/backstretch/) - Fullsize backgrounds/slideshow
+* [jquery-color](https://github.com/jquery/jquery-color) - Colour manipulation functions
+* [jquery-contextMenu](http://medialize.github.io/jQuery-contextMenu/) - Context menus
+* [jquery-countdown](http://keith-wood.name/countdown.html) - Countdown timer
+* [jquery-csv](https://code.google.com/p/jquery-csv/) - CSV handling
+* [jquery-idletimer](https://github.com/thorst/jquery-idletimer) - User activity monitor
+* [jquery-customselect](http://adam.co/lab/jquery/customselect/) - Customizable select boxes
+* [fooTable](http://themergency.com/footable/) - Responsive expandable tables
+* [handsontable](http://handsontable.com/) - Excel like editable table
+* [hashchange](http://benalman.com/projects/jquery-hashchange-plugin/) - Browser hash change event
+* [jquery-history](https://cdnjs.com/libraries/jquery-history) - History handling
+* [impromptu](http://trentrichardson.com/Impromptu/) - Website feature tour
+* [jquery-infinitescroll](http://www.infinite-scroll.com/infinite-scroll-jquery-plugin/) - Infinite scrolling
+* [jquery-instagram](http://potomak.github.io/jquery-instagram/) - Shows a list of instagram photos
+* [jcrop](http://deepliquid.com/content/Jcrop.html) - Image cropping
+* [jgrowl](http://stanlemon.net/2013/04/14/jgrowl-on-cdnjs/) - Mac like notifications
+* [jkit](http://jquery-jkit.com/) - UI toolkit
+* [jquery-localscroll](https://github.com/flesler/jquery.localScroll) - Animated anchor navigation
+* [jquerymobile](http://jquerymobile.com/) - Mobile app framework
+* [jquery-mousewheel](https://github.com/brandonaaron/jquery-mousewheel) - Cross browser mousewheel support
+* [nivo slider](http://dev7studios.com/plugins/nivo-slider) - OK'ish lightbox and gallery
+* [noty](http://ned.im/noty/) - Nice looking notifications
+* [jquery-one-page-nav](http://davist11.github.io/jQuery-One-Page-Nav/) - Animated anchor navigation
+* [overscroll](http://azoff.github.io/overscroll/) - Touch scrolling for the browser
+* [jquery-parallax](http://ianlunn.co.uk/articles/recreate-nikebetterworld-parallax/) - Parallax scrolling for websites
+* [powertip](http://stevenbenner.github.io/jquery-powertip/) - Hover tooltips
+* [jquery-resize](http://benalman.com/projects/jquery-resize-plugin/) - Resize events for all elements
+* [jquery-scrollTo](https://github.com/flesler/jquery.scrollTo) - Scroll to website element/location
+* [jquery-serialize-object](https://cdnjs.com/libraries/jquery-serialize-object) - Serialize form fields into an object or JSON
+* [smoove](http://smoove.donlabs.com/) - Trigger events on scroll
+* [sparklines](http://omnipotent.net/jquery.sparkline/#s-about) - Tiny inline charts
+* [jquery-tags-input](http://xoxco.com/2013/js/jQuery-Tags-Input/) - New form element for tags
+* [jqueryte](http://jqueryte.com/) - WYSIWYG text editor
+* [jquery-throttle-debounce](https://github.com/cowboy/jquery-throttle-debounce) - Throttle functions
+* [timeago](http://timeago.yarp.com/) - Makes fuzzy timestamps (e.g. "about 1 day ago")
+* [toggles](http://simontabor.com/labs/toggles/) - Easily stylable toggle buttons
+* 
