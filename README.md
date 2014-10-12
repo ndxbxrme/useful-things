@@ -238,4 +238,28 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [isotope](http://isotope.metafizzy.co/) - Responsive filtered and sorted layouts
 * [jquery-lazyload](http://www.appelsiini.net/projects/lazyload) - Lazy loading for images
 * [jquery-lazyloadXT](http://ressio.github.io/lazy-load-xt/) - Lazy loading, maybe with more mobile support
+* [jquery.mask](http://igorescobar.github.io/jQuery-Mask-Plugin/) - Masked inputs
+* [jquery.nicescroll](https://cdnjs.com/libraries/jquery.nicescroll) - Customizable scrollbars
+* [jquery-notification](http://azproduction.ru/jquery.notification/) - Webkit notifications (not regular ones)
+* [jquery-payment](https://github.com/stripe/jquery.payment) - Payment form elements
+* [pep.js](http://pep.briangonzalez.org/) - Kinetic drag and drop
+* [jquery-percentageloader](http://widgets.better2web.com/loader/) - Show percentages on a fancy circle
+* [jquery-pin](http://webpop.github.io/jquery.pin/) - Pin elements within a container
+* [jquery-qrcode](http://jeromeetienne.github.io/jquery-qrcode/) - Pure browser qrcode generation
+* [jquery-selectboxit](http://gregfranko.com/jquery.selectBoxIt.js/) - Fancier select boxes
+* [jquery-selection](http://madapaja.github.io/jquery.selection/) - Get selected text
+* [simpleweatherjs](http://simpleweatherjs.com/) - Get the current weather
+* [spritely](http://spritely.net/) - Dynamic character and background animation
+* [swipebox](https://brutaldesign.github.io/swipebox/) - Another lightbox plugin
+* [jquery-textcomplete](http://yuku-t.com/jquery-textcomplete/) - Autocomplete for textareas
+* [tocify](http://gregfranko.com/jquery.tocify.js/) - Table of Contents plugin
+* [transit](http://ricostacruz.com/jquery.transit/) - Smooth jQuery animations
+* [waitForImages](https://github.com/alexanderdickson/waitForImages) - Get notified when images load
+* [wookmark](http://www.wookmark.com/jquery-plugin) - Pinterest style layout
+* [js-sequence-diagrams](http://bramp.github.io/js-sequence-diagrams/) - Transform text into UML diagrams `pretty cool`
+* [js-signals](http://millermedeiros.github.io/js-signals/) - Custom event/messaging system
+* [js-url](https://github.com/websanova/js-url) - URL parser
+* [js-plumb](https://jsplumbtoolkit.com/demo/home/dom.html) - Flow charts?
+* [jssha](http://caligatio.github.io/jsSHA/) - SHA hashing
+* [jsforce](https://jsforce.github.io/) - Salesforce app framework
 * 
