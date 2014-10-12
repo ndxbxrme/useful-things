@@ -24,3 +24,4 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
 * [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - Big list of lists for all programming languages
 * [Awesome angular](https://github.com/gianarb/awesome-angularjs) - Large list of angular stuff
+* [Brain](https://github.com/harthur/brain) - Javascript neural networks
