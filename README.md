@@ -220,4 +220,22 @@ to use google fonts in jsfiddle, add the url as an external resource but append 
 * [jqueryui-timepicker](http://trentrichardson.com/examples/timepicker/) - Time picker plugin
 * [purl](https://github.com/allmarkedup/purl) - URL parser
 * [jquery-allowed-chars](https://github.com/fosco-maestro/jquery-allowed-chars-simple-plugin) - Only allow certain chars in an input
+* [jquery-appear](https://github.com/morr/jquery.appear) - Fires an event when an element is onscreen (or nearly onscreen)
+* [atmosphere](https://github.com/Atmosphere/atmosphere-javascript) - Asynchronous WebSocket/Comet framework
+* [jquery-bbq](http://benalman.com/projects/jquery-bbq-plugin/) - Hash manipulation/events
+* [carouFredSel](http://dev7studios.com/plugins/caroufredsel) - Another carousel/gallery
+* [colorbox](http://www.jacklmoore.com/colorbox/) - Another lightbox/gallery
+* [jquery-collapsible](http://www.snyderplace.com/demos/collapsible.html) - Collapsible elements
+* [jquery-customSelect](https://github.com/adamcoulombe/jquery.customSelect) - CSS Stylable select replacement
+* [cycle2](http://jquery.malsup.com/cycle2/) - Another slideshow/lightbox/gallery, this one is apparantly mobile friendly
+* [jquery.devbridge-autocomplete](http://www.devbridge.com/sourcery/components/jquery-autocomplete/) - Ajax autocomplete
+* [jquery-easytabs](http://os.alfajango.com/easytabs/) - Tabs made easy
+* [formalize](http://formalize.me/) - Restyle forms with CSS
+* [jquery-gray](https://github.com/karlhorky/gray) - Grayscale an image in any browser
+* [gridster.js](http://gridster.net/) - Drag and drop grid layout
+* [imagesloaded](http://desandro.github.io/imagesloaded/) - More control over image loading with callbacks
+* [isjs](https://github.com/rthor/isjs) - Check data against regular expressions or inbuilt types
+* [isotope](http://isotope.metafizzy.co/) - Responsive filtered and sorted layouts
+* [jquery-lazyload](http://www.appelsiini.net/projects/lazyload) - Lazy loading for images
+* [jquery-lazyloadXT](http://ressio.github.io/lazy-load-xt/) - Lazy loading, maybe with more mobile support
 * 
