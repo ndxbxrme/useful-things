@@ -66,3 +66,14 @@ heroku ps:scale web=1
 heroku open
 ```
 * you should now see your shiny new app
+
+###add a domain
+* add a CNAME record with your domain registrar pointing to appname.herokuapp.com
+```dos
+heroku domains:add www.mydomain.com
+```
+
+###view your logs
+```dos
+heroku logs --tail
+```
