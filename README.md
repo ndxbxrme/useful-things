@@ -14,7 +14,7 @@ links to useful things on the internet
 ###resources
 * [Subtle Patterns](http://subtlepatterns.com/) - Subtle, repeating patterns for backgrounds etc
 * [Unsplash](https://unsplash.com/) - Free, high quality stock photos
-* [Unsplash.it](https://unsplash.it/) - Random images from unsplash
+* [Unsplash.it](https://unsplash.it/) - Random placeholder images from unsplash
 * [Typ.IO](http://www.typ.io/) - fonts that go together
 * [CSS Filters](http://css-tricks.com/almanac/properties/f/filter/) - CSS Filter Reference
 * [CSS Font Stack](http://cssfontstack.com/) - handy font stacks
