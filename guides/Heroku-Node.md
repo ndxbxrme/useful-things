@@ -25,7 +25,6 @@ npm install --save gzippo
 npm install --save compression
 npm install --save method-override
 npm install --save logger
-npm install --save body-parser
 ```
 ~/server/app.js
 ```javascript
@@ -34,8 +33,7 @@ var express = require('express'),
     gzippo = require('gzippo'),
     compression = require('compression'),
     methodOverride = require('method-override'),
-    logger = require('logger'),
-    bodyParser = require('body-parser');
+    logger = require('logger');
 var app = express();
 
 app.set('port', process.env.PORT || 3000);
