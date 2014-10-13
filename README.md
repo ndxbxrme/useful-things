@@ -33,6 +33,8 @@ links to useful things on the internet
 * [Dabblet](http://dabblet.com/) - CSS/HTML editor
 * [Dillinger](http://dillinger.io/) - Markdown editor
 * [JSFiddle](http://jsfiddle.net/) - CSS/HTML/Javascript editor
+* [JSApp.US](http://jsapp.us/) - Like JSFiddle for node/server stuff
+* [Cloud9](https://c9.io/) - As above but more involved
 * [jsoneditoronline](http://www.jsoneditoronline.org/) - JSON editor/formatter
 * [sqlformat](http://sqlformat.org/) - SQL formatter
 * [jsbeautifier](http://jsbeautifier.org/) - Javascript formatter 
