@@ -40,6 +40,9 @@ links to useful things on the internet
 _using google fonts in jsfiddle_  
 add the url as an external resource but append `&type=.css` to trick jsfiddle into adding it as css
 
+###hosting
+* [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps
+
 ###javascript & CSS libraries
 * [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 * [ace](https://cdnjs.com/libraries/ace) - Code editor
