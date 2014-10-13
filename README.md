@@ -26,6 +26,9 @@ links to useful things on the internet
 * [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - Big list of lists for all programming languages
 * [Awesome angular](https://github.com/gianarb/awesome-angularjs) - Large list of angular stuff  
 
+###advice
+* [Ampersands](http://simplebits.com/notebook/2008/08/14/ampersands-2/) - Use better ampersands
+
 ###online editors/formatters
 * [Dabblet](http://dabblet.com/) - CSS/HTML editor
 * [Dillinger](http://dillinger.io/) - Markdown editor
