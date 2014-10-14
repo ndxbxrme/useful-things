@@ -44,6 +44,10 @@ links to useful things on the internet
 _using google fonts in jsfiddle_  
 add the url as an external resource but append `&type=.css` to trick jsfiddle into adding it as css
 
+###offline editors & utilities
+* [cmder](http://bliker.github.io/cmder/) - Fantastic command line replacement
+* [brackets](http://brackets.io/) - Editor of choise
+
 ###hosting
 * [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps
 
