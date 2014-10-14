@@ -13,9 +13,8 @@ yo angular
 * clean out boilerplate angular code
 
 ```dos
-mkdir server
-echo #>server\app.js
-echo web: node server/app.js>Procfile
+mkdir se                                //create a directory for the server to live in
+echo web: node server/app.js>Procfile   //this is the command heroku uses to start your app
 ```
 * set up angular server
 
