@@ -13,31 +13,26 @@ yo angular
 * clean out boilerplate angular code
 
 ```dos
-mkdir se                                //create a directory for the server to live in
-echo web: node server/app.js>Procfile   //this is the command heroku uses to start your app
+mkdir server                            //create a directory for the server to live in
+echo web: node server/app.js>Procfile   //this makes the command heroku uses to start your app
 ```
 * set up angular server
 
 ```dos
-npm install --save express
-npm install --save gzippo
-npm install --save compression
-npm install --save method-override
-npm install --save logger
+npm install --save express              //a modular web server
+npm install --save gzippo               //compresses files to save bandwidth
+npm install --save compression          //used by gzippo  
 ```
-~/server/app.js
++/server/app.js
 ```javascript
 'use strict';
 var express = require('express'),
     gzippo = require('gzippo'),
-    compression = require('compression'),
-    methodOverride = require('method-override'),
-    logger = require('logger');
+    compression = require('compression');
 var app = express();
 
 app.set('port', process.env.PORT || 3000);
 app.use(compression());
-app.use(methodOverride());
 
 app.use('/scripts', gzippo.staticGzip(__dirname + '/../dist/scripts'));
 app.use('/images', gzippo.staticGzip(__dirname + '/../dist/images'));
@@ -54,15 +49,15 @@ console.log('server listening on ' + app.get('port'));
 * download and install the heroku toolbelt which can be found on the first page of the heroku nodejs tutorial [here](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
 
 ```dos
-heroku login
-heroku create appname
-grunt build
-git add --all
-git commit -m "first commit"
-git push origin master
-git push heroku master
-heroku ps:scale web=1
-heroku open
+heroku login                    //you may need to mess about with sha keys at this point
+heroku create appname           //make your app on heroku
+grunt build                     //build client-side ready for deployment
+git add --all                   //make git aware of any changes
+git commit -m "first commit"    //commit your changes
+git push origin master          //push to github
+git push heroku master          //push to heroku
+heroku ps:scale web=1           //starts your heroku app
+heroku open                     //opens it in your browser
 ```
 * you should now see your shiny new app
 
