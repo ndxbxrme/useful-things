@@ -1,4 +1,4 @@
-#originem dev process
+#angular & node.js & JWT & sequelize
 ---
 start with a folder
 ```
