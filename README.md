@@ -54,6 +54,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 ###javascript & CSS libraries
 * [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 * [ace](https://cdnjs.com/libraries/ace) - Code editor
+* [acorn](http://marijnhaverbeke.nl/acorn/) - Javascript parser
 * [amcharts](http://www.amcharts.com/) - Robust charts and data visualization
 * [analytics.js](https://segment.com/docs/libraries/analytics.js/) - Website analytics, freemium
 * [anijs](http://anijs.github.io/) - Simple declarative CSS animations
