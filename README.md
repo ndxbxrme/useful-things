@@ -26,8 +26,9 @@ links to useful things on the internet
 * [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - Big list of lists for all programming languages
 * [Awesome angular](https://github.com/gianarb/awesome-angularjs) - Large list of angular stuff  
 
-###advice
+###advice & tutorials
 * [Ampersands](http://simplebits.com/notebook/2008/08/14/ampersands-2/) - Use better ampersands
+* [SVG Animation](http://jakearchibald.com/2013/animated-line-drawing-svg/) - Animated SVG line drawing
 
 ###online editors/formatters
 * [Dabblet](http://dabblet.com/) - CSS/HTML editor
