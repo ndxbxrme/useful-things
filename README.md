@@ -45,6 +45,13 @@ links to useful things on the internet
 _using google fonts in jsfiddle_  
 add the url as an external resource but append `&type=.css` to trick jsfiddle into adding it as css
 
+###CDNs
+* [CDNjs](https://cdnjs.com/) - hosts most popular Javascript/CSS libraries
+* [RawGit](http://rawgit.com/) - serves raw files directly from GitHub with proper Content-Type headers
+* [jsDelivr](http://www.jsdelivr.com/) - large selection of Javascript/CSS libraries
+* [OSSCDN](http://osscdn.com/#/) - another large collection of libraries
+* [staticfile](http://www.staticfile.org/) - massive amount of libraries (renders in chinese on my computer)
+
 ###offline editors & utilities
 * [cmder](http://bliker.github.io/cmder/) - Fantastic command line replacement
 * [brackets](http://brackets.io/) - Editor of choise
