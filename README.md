@@ -59,6 +59,10 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 ###hosting
 * [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps
 
+###interesting jsFiddler'z
+* [csswizardry](http://jsfiddle.net/user/csswizardry/fiddles/) - nicely documented CSS experiments
+* [ndxbxrme](http://jsfiddle.net/user/ndxbxrme/fiddles/) - me
+
 ###javascript & CSS libraries
 * [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
 * [ace](https://cdnjs.com/libraries/ace) - Code editor
