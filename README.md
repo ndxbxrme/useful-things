@@ -41,6 +41,7 @@ links to useful things on the internet
 * [jsoneditoronline](http://www.jsoneditoronline.org/) - JSON editor/formatter
 * [sqlformat](http://sqlformat.org/) - SQL formatter
 * [jsbeautifier](http://jsbeautifier.org/) - Javascript formatter 
+* [sassmeister](http://sassmeister.com/) - SASS playground
 
 _using google fonts in jsfiddle_  
 add the url as an external resource but append `&type=.css` to trick jsfiddle into adding it as css
