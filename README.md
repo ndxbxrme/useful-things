@@ -20,6 +20,7 @@ links to useful things on the internet
 * [CSS Font Stack](http://cssfontstack.com/) - handy font stacks
 * [Cubic Bezier Generator](http://cubic-bezier.com/#.91,.09,.83,.67) - generate nice curves
 * [Gradients Tool](http://www.westciv.com/tools/gradients/) - as on tin
+* [IconMelon](http://iconmelon.com/) - SVG icons
 
 ###other lists
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
