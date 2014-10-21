@@ -62,6 +62,9 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 ###hosting
 * [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps
 
+###testing
+* [ScreenQueries](http://beta.screenqueri.es/) - Test responsive designs across 60+ viewports
+
 ###interesting jsFiddler'z
 * [csswizardry](http://jsfiddle.net/user/csswizardry/fiddles/) - nicely documented CSS experiments
 * [ndxbxrme](http://jsfiddle.net/user/ndxbxrme/fiddles/) - me
