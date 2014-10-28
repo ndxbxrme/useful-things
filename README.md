@@ -31,6 +31,7 @@ links to useful things on the internet
 * [Ampersands](http://simplebits.com/notebook/2008/08/14/ampersands-2/) - Use better ampersands
 * [SVG Animation](http://jakearchibald.com/2013/animated-line-drawing-svg/) - Animated SVG line drawing
 * [DevTools](http://devtoolstips.com/) - Chrome DevTools tips, updated regularly
+* [CSS Centering](http://css-tricks.com/centering-css-complete-guide/) - Complete guide to centering vertically & horizontally in CSS
 
 ###online editors/formatters
 * [Dabblet](http://dabblet.com/) - CSS/HTML editor
