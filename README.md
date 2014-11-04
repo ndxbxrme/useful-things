@@ -32,6 +32,7 @@ links to useful things on the internet
 * [SVG Animation](http://jakearchibald.com/2013/animated-line-drawing-svg/) - Animated SVG line drawing
 * [DevTools](http://devtoolstips.com/) - Chrome DevTools tips, updated regularly
 * [CSS Centering](http://css-tricks.com/centering-css-complete-guide/) - Complete guide to centering vertically & horizontally in CSS
+* [DevTools Tips&Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks) - Google guide for devtools
 
 ###online editors/formatters
 * [Dabblet](http://dabblet.com/) - CSS/HTML editor
