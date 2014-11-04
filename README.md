@@ -3,9 +3,9 @@ useful-things
 
 links to useful things on the internet
 
-##2014, October
 
-* [RegExr](http://www.regexr.com/) - helps with regular expressions (could do with testing by a competent person)
+
+* [RegExr](http://www.regexr.com/) - helps with regular expressions
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) chrome extension; with this installed you can r-click and lassoo any or all the above links, and they'll each open in new tabs.. pretty sweet
 * [Bulk URL Opener](http://melanto.com/apps/bulk-url-opener/) - same kinda vibe as the above except you drop a list of urls into it and hey presto.. good if you want to create a particular workspace / toolset from a pre-prepared list
 * [Susy](http://susy.oddbird.net/) - scss grids - [tutorial](http://css-tricks.com/build-web-layouts-easily-susy/)
@@ -62,6 +62,10 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 
 ###hosting
 * [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps
+
+###APIs
+* [BrainTree](https://www.braintreepayments.com/) - Online payments (paypal etc)
+* [Mandrill](https://mandrill.com/) - Send emails
 
 ###testing
 * [ScreenQueries](http://beta.screenqueri.es/) - Test responsive designs across 60+ viewports
