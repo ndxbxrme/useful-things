@@ -219,6 +219,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [infinity](http://airbnb.github.io/infinity/) - Infinite scroll
 * [ink](http://ink.sapo.pt/) - Responsive framework
 * [insight.js](http://scottlogic.github.io/insight/#/) - Data aggregation and visualization library
+* [interact.js](http://interactjs.io/) - Multi touch, pinch and zoom
 * [intercom](https://github.com/diy/intercom.js) - Client side cross-window messaging
 * [intro.js](http://usablica.github.io/intro.js/) - Demo website features with a step-by-step guide
 * [ionic](https://cdnjs.com/libraries/ionic) - Mobile app framework
