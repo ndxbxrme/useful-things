@@ -6,8 +6,8 @@ git init
 yo angular originem	
 mkdir server
 npm install --save express
-npm install --save grunt-connect-proxy
-npm install --save grunt-develop
+npm install --save-dev grunt-connect-proxy
+npm install --save-dev grunt-develop
 ```
 make a basic api server.  
 _+/server/app.js_
