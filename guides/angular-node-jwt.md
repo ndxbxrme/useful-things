@@ -34,6 +34,15 @@ develop: {
 		file: 'server/app.js'
 	}
 },
+// - after watch: {
+nodejs: {
+  files: [
+      'server/**/*.js',
+      'server/*.js'
+  ],
+  tasks: ['env:test','develop'],
+  options: { nospawn: true }
+},
 //75 - after connect: {
 proxies: [
 	{
