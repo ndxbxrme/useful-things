@@ -57,7 +57,7 @@ clean out boilerplate code from angular project
 remove extraneous code from app/index.html
 add <base href="/" /> to app/index.html <head>
 empty app/styles/main.scss
-empty app/scripts/controllers/main.html
+empty app/views/main.html
 ```
 .  
 ##ENVIRONMENT VARIABLES
