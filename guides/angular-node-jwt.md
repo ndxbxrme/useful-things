@@ -4,7 +4,6 @@ start with a folder
 ```
 git init
 yo angular appname
-cd appname
 mkdir server
 npm install --save express
 npm install --save-dev grunt-connect-proxy
