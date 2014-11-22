@@ -11,6 +11,10 @@ links to useful things on the internet
 * [Susy](http://susy.oddbird.net/) - scss grids - [tutorial](http://css-tricks.com/build-web-layouts-easily-susy/)
 * [Breakpoint](http://breakpoint-sass.com/) - responsive scss
 
+###collections of cool stuff
+* [Collective](http://tympanus.net/codrops/collective/) - A weekly dose of interesting and useful web resources
+* [Oozled](http://oozled.com/) - Cool things, nicely categorized
+
 ###resources
 * [Subtle Patterns](http://subtlepatterns.com/) - Subtle, repeating patterns for backgrounds etc
 * [Unsplash](https://unsplash.com/) - Free, high quality stock photos
