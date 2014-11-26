@@ -38,6 +38,9 @@ links to useful things on the internet
 * [CSS Centering](http://css-tricks.com/centering-css-complete-guide/) - Complete guide to centering vertically & horizontally in CSS
 * [DevTools Tips&Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks) - Google guide for devtools
 
+###videos
+* [MongoDB Schema Design](https://www.youtube.com/watch?v=PIWVFUtBV1Q) - How to think in a non-relational way.
+
 ###online editors/formatters
 * [Dabblet](http://dabblet.com/) - CSS/HTML editor
 * [Dillinger](http://dillinger.io/) - Markdown editor
