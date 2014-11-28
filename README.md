@@ -67,7 +67,8 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 
 ###offline editors & utilities
 * [cmder](http://bliker.github.io/cmder/) - Fantastic command line replacement
-* [brackets](http://brackets.io/) - Editor of choise
+* [brackets](http://brackets.io/) - Editor of choice
+* [Atom](https://atom.io/) - Editor made by Github
 
 ###hosting
 * [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps
