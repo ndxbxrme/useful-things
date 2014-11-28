@@ -146,6 +146,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [dygraphs](http://dygraphs.com/) - More charts
 * [elasticsearch](http://www.elasticsearch.org/overview/) - Search and analytics, goes with Logstash and Kibana appaz
 * [Embedly jQuery](http://embedly.github.io/embedly-jquery/) - Embed content properly
+* [engine.io](https://github.com/Automattic/engine.io) - Cross-browser/cross-device bi-directional communication layer for Socket.IO. `featured`
 * [enquire.js](http://wicky.nillia.ms/enquire.js/) - Device/media detection
 * [entypo](http://entypo.com/) - Pictogram icons
 * [epicEditor](http://epiceditor.com/) - Embeddable markdown editor
