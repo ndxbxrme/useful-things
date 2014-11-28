@@ -163,6 +163,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [FitText](http://fittextjs.com/) - Inflates type to fill space
 * [fitvids.js](http://fitvidsjs.com/) - Video embedding
 * [fixed-header-table](https://cdnjs.com/libraries/fixed-header-table) - Scrolling table with fixed header
+* [flare.js](https://github.com/toddmotto/flare) - Event emmiter for Google Universal Analytics
 * [flexie](http://flexiejs.com/) - Cross browser support for the Flexible Box Model
 * [flexslider](http://www.woothemes.com/flexslider/) - Content slider
 * [floatlabels](http://clubdesign.github.io/floatlabels.js/) - Implements the famous Float Label Pattern(?)
