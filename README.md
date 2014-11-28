@@ -451,7 +451,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [sjcl](https://cdnjs.com/libraries/sjcl) - Stanford Javascript Crypto Library, high-level crypto
 * [skeleton](http://www.getskeleton.com/) - Responsive framework
 * [sketch.js](https://github.com/soulwire/sketch.js/) - Cross platform javascript creative coding framework
-* [skrollr](http://prinzhorn.github.io/skrollr/) - Parallax scrolling [jsfiddle](http://jsfiddle.net/ndxbxrme/azzy588u/4/)[jsfiddle](http://jsfiddle.net/ndxbxrme/azzy588u/3/)
+* [skrollr](http://prinzhorn.github.io/skrollr/) - Parallax scrolling `js,modern,responsive,featured` [jsfiddle](http://jsfiddle.net/ndxbxrme/azzy588u/4/)[jsfiddle](http://jsfiddle.net/ndxbxrme/azzy588u/3/)
 * [skycons](http://darkskyapp.github.io/skycons/) - Animated weather icons
 * [slabtext](https://cdnjs.com/libraries/slabtext) - Big, bold & responsive headlines
 * [slicknav](http://slicknav.com/) - mobile nav menu
