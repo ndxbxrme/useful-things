@@ -12,11 +12,11 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [Breakpoint](http://breakpoint-sass.com/) - responsive scss
 
 ###collections of cool stuff
-* [Collective](http://tympanus.net/codrops/collective/) - A weekly dose of interesting and useful web resources
+* [Collective](http://tympanus.net/codrops/collective/) - A weekly dose of interesting and useful web resources `featured`
 * [Oozled](http://oozled.com/) - Cool things, nicely categorized
 
 ###resources
-* [Subtle Patterns](http://subtlepatterns.com/) - Subtle, repeating patterns for backgrounds etc
+* [Subtle Patterns](http://subtlepatterns.com/) - Subtle, repeating patterns for backgrounds etc `featured`
 * [Unsplash](https://unsplash.com/) - Free, high quality stock photos `photo,image,placeholder,stock,free,featured`
 * [Unsplash.it](https://unsplash.it/) - Random placeholder images from unsplash
 * [Typ.IO](http://www.typ.io/) - fonts that go together
@@ -24,7 +24,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [CSS Font Stack](http://cssfontstack.com/) - handy font stacks
 * [Cubic Bezier Generator](http://cubic-bezier.com/#.91,.09,.83,.67) - generate nice curves
 * [Gradients Tool](http://www.westciv.com/tools/gradients/) - as on tin
-* [IconMelon](http://iconmelon.com/) - SVG icons
+* [IconMelon](http://iconmelon.com/) - SVG icons `featured`
 
 ###other lists
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
@@ -39,42 +39,41 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [DevTools Tips&Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks) - Google guide for devtools
 
 ###videos
-* [MongoDB Schema Design](https://www.youtube.com/watch?v=PIWVFUtBV1Q) - How to think in a non-relational way.
+* [MongoDB Schema Design](https://www.youtube.com/watch?v=PIWVFUtBV1Q) - How to think in a non-relational way. `featured`
 
 ###online editors/formatters
 * [Dabblet](http://dabblet.com/) - CSS/HTML editor
 * [Dillinger](http://dillinger.io/) - Markdown editor
 * [JSFiddle](http://jsfiddle.net/) - CSS/HTML/Javascript editor
+* [Codepen](http://codepen.io/) - Full featured SCSS/HTML frontend editor `featured`
 * [Lessico](http://lessi.co/) - Like JSFiddle
 * [JSApp.US](http://jsapp.us/) - Like JSFiddle for node/server stuff
-* [Cloud9](https://c9.io/) - Hosted node IDE with debugging
+* [Cloud9](https://c9.io/) - Hosted node IDE with debugging `featured`
 * [ShaderToy](http://www.shadertoy.com) - OpenGL fragment shaders
 * [jsoneditoronline](http://www.jsoneditoronline.org/) - JSON editor/formatter
-* [sqlformat](http://sqlformat.org/) - SQL formatter
+* [sqlformat](http://sqlformat.org/) - SQL formatter `featured`
 * [jsbeautifier](http://jsbeautifier.org/) - Javascript formatter 
 * [sassmeister](http://sassmeister.com/) - SASS playground
 
-_using google fonts in jsfiddle_  
-add the url as an external resource but append `&type=.css` to trick jsfiddle into adding it as css
 
 ###CDNs
-* [CDNjs](https://cdnjs.com/) - hosts most popular Javascript/CSS libraries
+* [CDNjs](https://cdnjs.com/) - hosts most popular Javascript/CSS libraries `featured`
 * [RawGit](http://rawgit.com/) - serves raw files directly from GitHub with proper Content-Type headers
 * [jsDelivr](http://www.jsdelivr.com/) - large selection of Javascript/CSS libraries
 * [OSSCDN](http://osscdn.com/#/) - another large collection of libraries
 * [staticfile](http://www.staticfile.org/) - massive amount of libraries (renders in chinese on my computer)
-* [weloveiconfonts](http://weloveiconfonts.com/) - CDN just for icon fonts [codepen](http://codepen.io/ndxbxrme/pen/wBaLae)
+* [weloveiconfonts](http://weloveiconfonts.com/) - CDN just for icon fonts `featured` [codepen](http://codepen.io/ndxbxrme/pen/wBaLae)
 
 ###offline editors & utilities
 * [cmder](http://bliker.github.io/cmder/) - Fantastic command line replacement
 * [brackets](http://brackets.io/) - Editor of choice
-* [Atom](https://atom.io/) - Editor made by Github
+* [Atom](https://atom.io/) - Editor made by Github `featured`
 
 ###hosting
-* [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps
+* [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps `featured`
 
 ###APIs
-* [BrainTree](https://www.braintreepayments.com/) - Online payments (paypal etc)
+* [BrainTree](https://www.braintreepayments.com/) - Online payments (paypal etc) `featured`
 * [Mandrill](https://mandrill.com/) - Send emails
 
 ###testing
@@ -86,13 +85,13 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 
 ###javascript & CSS libraries
 * [accounting.js](http://openexchangerates.github.io/accounting.js/) - Number, money and currency formatting
-* [ace](https://cdnjs.com/libraries/ace) - Code editor
-* [acorn](http://marijnhaverbeke.nl/acorn/) - Javascript parser
+* [ace](https://cdnjs.com/libraries/ace) - Code editor `featured`
+* [acorn](http://marijnhaverbeke.nl/acorn/) - Javascript parser `featured`
 * [amcharts](http://www.amcharts.com/) - Robust charts and data visualization
 * [analytics.js](https://segment.com/docs/libraries/analytics.js/) - Website analytics, freemium
 * [anijs](http://anijs.github.io/) - Simple declarative CSS animations
-* [animate.css](https://cdnjs.com/libraries/animate.css) - Easy to use css animations
-* [async.js](https://github.com/fjakobs/async.js) - Flattens asychronous callback stacks
+* [animate.css](https://cdnjs.com/libraries/animate.css) - Easy to use css animations `featured`
+* [async.js](https://github.com/fjakobs/async.js) - Flattens asychronous callback stacks `featured`
 * [atmosphere](https://github.com/Atmosphere/atmosphere-javascript) - Asynchronous WebSocket/Comet framework
 * [audio5js](http://zohararad.github.io/audio5js/) - HTML5 audio API with flash fallback
 * [aurora.js](https://cdnjs.com/libraries/aurora.js) - Audio decoding framework
@@ -105,7 +104,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [bitcoin.js](http://bitcoinjs.org/) - Javascript bitcoin library
 * [blueimp md5](https://github.com/blueimp/JavaScript-MD5) - MD5 for both browser and node
 * [bonsai](http://bonsaijs.org/) - Graphics API and SVG renderer
-* [Brain](https://github.com/harthur/brain) - Javascript neural networks
+* [Brain](https://github.com/harthur/brain) - Javascript neural networks `featured`
 * [bucky](http://github.hubspot.com/bucky/) - Measure website performance from users' browser
 * [buzz](http://buzz.jaysalvat.com/) - HTML5 Audio API
 * [c3](http://c3js.org/) - Charts
@@ -133,7 +132,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [Cubism.js](http://square.github.io/cubism/) - Time series charts
 * [cycle2](http://jquery.malsup.com/cycle2/) - Another slideshow/lightbox/gallery, this one is apparantly mobile friendly
 * [Cytoscape.js](http://cytoscape.github.io/cytoscape.js/) - Data visualisation
-* [d3](http://d3js.org/) - Data visualisation
+* [d3](http://d3js.org/) - Data visualisation `featured`
 * [dancer](http://jsantell.github.io/dancer.js/) - Audio API (not working?)
 * [datejs](http://www.datejs.com/) - Date parsing and formatting
 * [dc.js](http://dc-js.github.io/dc.js/) - More charts
@@ -143,7 +142,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [diff_match_patch](https://code.google.com/p/google-diff-match-patch/) - Text diff, match and patch
 * [dojo](http://dojotoolkit.org/) - App framework
 * [dotdotdot](http://dotdotdot.frebsite.nl/) - Advanced ellipsis
-* [Dragabilly](http://draggabilly.desandro.com/) - Makes things draggable
+* [Dragabilly](http://draggabilly.desandro.com/) - Makes things draggable `featured`
 * [dygraphs](http://dygraphs.com/) - More charts
 * [elasticsearch](http://www.elasticsearch.org/overview/) - Search and analytics, goes with Logstash and Kibana appaz
 * [Embedly jQuery](http://embedly.github.io/embedly-jquery/) - Embed content properly
@@ -175,7 +174,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [fotorama](http://fotorama.io/) - Another lightbox
 * [foundation](http://foundation.zurb.com/) - CSS framework
 * [foundicons](http://zurb.com/playground/foundation-icon-fonts-3) - Foundation Icons
-* [Froala Editor](http://editor.froala.com/) - WYSIWYG text editor
+* [Froala Editor](http://editor.froala.com/) - WYSIWYG text editor `featured`
 * [fullcalendar](http://fullcalendar.io/) - Event calendar, there's an angular version too
 * [fuse.js](http://kiro.me/projects/fuse.html) - Fuzzy search
 * [galleria](http://galleria.io/) - Another gallery/lightbox
@@ -199,7 +198,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [hammer](http://hammerjs.github.io/) - Multitouch gestures
 * [handsontable](http://handsontable.com/) - Excel like editable table
 * [hashchange](http://benalman.com/projects/jquery-hashchange-plugin/) - Browser hash change event
-* [headjs](http://headjs.com/) - Browser/device/media detection
+* [headjs](http://headjs.com/) - Browser/device/media detection `featured`
 * [headroom](http://wicky.nillia.ms/headroom.js/) - Hides header until it is needed
 * [highcharts](http://www.highcharts.com/) - More charts
 * [highlightjs](https://highlightjs.org/) - Syntax highlighting
@@ -275,7 +274,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [jquery-pin](http://webpop.github.io/jquery.pin/) - Pin elements within a container
 * [jquery-qrcode](http://jeromeetienne.github.io/jquery-qrcode/) - Pure browser qrcode generation
 * [jquery-resize](http://benalman.com/projects/jquery-resize-plugin/) - Resize events for all elements
-* [jquery-scrollTo](https://github.com/flesler/jquery.scrollTo) - Scroll to website element/location
+* [jquery-scrollTo](https://github.com/flesler/jquery.scrollTo) - Scroll to website element/location `featured`
 * [jquery-selectboxit](http://gregfranko.com/jquery.selectBoxIt.js/) - Fancier select boxes
 * [jquery-selection](http://madapaja.github.io/jquery.selection/) - Get selected text
 * [jquery-serialize-object](https://cdnjs.com/libraries/jquery-serialize-object) - Serialize form fields into an object or JSON
@@ -292,10 +291,11 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [jqueryui-map](https://code.google.com/p/jquery-ui-map/) - Google maps plugin
 * [jqueryui-timepicker](http://trentrichardson.com/examples/timepicker/) - Time picker plugin
 * [js-plumb](https://jsplumbtoolkit.com/demo/home/dom.html) - Flow charts?
-* [js-sequence-diagrams](http://bramp.github.io/js-sequence-diagrams/) - Transform text into UML diagrams `pretty cool`
+* [js-sequence-diagrams](http://bramp.github.io/js-sequence-diagrams/) - Transform text into UML diagrams
 * [js-signals](http://millermedeiros.github.io/js-signals/) - Custom event/messaging system
 * [js-url](https://github.com/websanova/js-url) - URL parser
 * [jscrollpane](http://jscrollpane.kelvinluck.com/) - Cross browser stylable scrollbars
+* [jsDAV](https://github.com/mikedeboer/jsdav) - WebDAV support for node applications `featured`
 * [jsforce](https://jsforce.github.io/) - Salesforce app framework
 * [jsoneditor](https://cdnjs.com/libraries/jsoneditor) - Backend for [jsoneditoronline](http://jsoneditoronline.org)
 * [jspdf](http://parall.ax/products/jspdf) - HTML5 client-side pdf generation
@@ -319,7 +319,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [leaflet](http://leafletjs.com/) - Mobile-friendly interactive maps
 * [leapjs](https://developer.leapmotion.com/leapjs/welcome) - Client for the LeapMotion
 * [less.js](http://lesscss.org/) - CSS pre-processor
-* [lettering.js](http://letteringjs.com/) - Radical web typography
+* [lettering.js](http://letteringjs.com/) - Radical web typography `featured`
 * [lightbox2](http://lokeshdhakar.com/projects/lightbox2/) - Another lightbox
 * [listjs](http://listjs.com/) - Search, sort and filter for lists
 * [livestamp.js](http://mattbradley.github.io/livestampjs/) - Auto-updating live timestamps
@@ -349,7 +349,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [modernizr](https://cdnjs.com/libraries/modernizr) - Browser feature detection
 * [moment.js](http://momentjs.com/) - Parse, validate, manipulate and display dates
 * [money.js](https://github.com/josscrowcroft/money.js) - Currency conversion library
-* [morris.js](http://morrisjs.github.io/morris.js/) - More charts
+* [morris.js](http://morrisjs.github.io/morris.js/) - Nice free charts `featured`
 * [mousetrap](http://craig.is/killing/mice) - Keyboard binding
 * [musicmetadata](https://cdnjs.com/libraries/musicmetadata) - Meta data parser
 * [nanobar](http://nanobar.micronube.com/) - Progress bar
@@ -422,9 +422,9 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [rachet](http://goratchet.com/) - HTML, CSS and JS components for building mobile apps
 * [radio](http://radio.uxder.com/) - PubSub library
 * [rainbow](http://craig.is/making/rainbows/) - Code syntax highlighting
-* [randomColor](http://llllll.li/randomColor/) - Random colour generator
+* [randomColor](http://llllll.li/randomColor/) - Random colour generator `featured`
 * [rangy](https://github.com/timdown/rangy) - Text ranges and highlighting
-* [raphael](http://raphaeljs.com/) - Vector graphics library
+* [raphael](http://raphaeljs.com/) - Vector graphics library `featured`
 * [raven](https://github.com/getsentry/raven-js) - JS client for Sentry
 * [react](http://facebook.github.io/react/) - Library for building user interfaces
 * [remoteStorage](http://remotestorage.io/) - Library for the open remote storage protocol
@@ -473,7 +473,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [spritely](http://spritely.net/) - Dynamic character and background animation
 * [stellar.js](http://markdalgleish.com/projects/stellar.js/) - Parallax scrolling library
 * [store.js](https://cdnjs.com/libraries/store.js) - A localStorage wrapper
-* [string.js](http://stringjs.com/) - String manipulation functions
+* [string.js](http://stringjs.com/) - String manipulation functions `featured`
 * [string_score](https://github.com/joshaven/string_score) - Ranked matching for strings
 * [strophe.js](http://strophe.im/strophejs/) - XMPP library
 * [stylus](http://learnboost.github.io/stylus/) - CSS superset
@@ -512,8 +512,8 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [two.js](http://jonobr1.github.io/two.js/) - 2 dimensional drawing API
 * [typeahead](http://twitter.github.io/typeahead.js/) - Autocomplete library
 * [uikit](http://getuikit.com/) - Front end framework
-* [underscore.string](http://epeli.github.io/underscore.string/) - String manipulation functions
-* [underscore](http://jashkenas.github.io/underscore/) - Object/Array manipulation functions
+* [underscore.string](http://epeli.github.io/underscore.string/) - String manipulation functions `featured`
+* [underscore](http://jashkenas.github.io/underscore/) - Object/Array manipulation functions `featured`
 * [uniform](http://uniformjs.com/) - Form element styling
 * [unsemantic](http://unsemantic.com/) - Percentage based responsive CSS framework
 * [unveil](https://cdnjs.com/libraries/unveil) - Lazy load images
