@@ -55,6 +55,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [jsbeautifier](http://jsbeautifier.org/) - Javascript formatter 
 * [sassmeister](http://sassmeister.com/) - SASS playground
 * [Github Ribbons](http://codepo8.github.io/css-fork-on-github-ribbon/) - Pure CSS "fork me on github" ribbons
+* [bounce.js](http://bouncejs.com/) - Beautiful CSS3 powered animations
 
 
 ###CDNs
@@ -104,6 +105,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [bignumber.js](http://mikemcl.github.io/bignumber.js/) - Arbitrary-precision arithmetic
 * [bitcoin.js](http://bitcoinjs.org/) - Javascript bitcoin library
 * [blueimp md5](https://github.com/blueimp/JavaScript-MD5) - MD5 for both browser and node
+* [boba.js](http://boba.space150.com/) - Javascript library for Google Analytics
 * [bonsai](http://bonsaijs.org/) - Graphics API and SVG renderer
 * [Brain](https://github.com/harthur/brain) - Javascript neural networks `featured`
 * [bucky](http://github.hubspot.com/bucky/) - Measure website performance from users' browser
