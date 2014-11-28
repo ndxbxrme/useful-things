@@ -126,6 +126,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [commandz](https://github.com/EtienneLem/commandz) - Undo/Redo for webapps
 * [conditionizr](http://conditionizr.com/) - Detect front-end environment
 * [crafty](http://craftyjs.com/) - Game engine
+* [crossfilter](http://square.github.io/crossfilter/) - Fast, multidimensional filtering for very large datasets
 * [crunch](http://crunch.secureroom.net/) - Big number arithmetic
 * [cryptico](http://wwwtyro.github.io/cryptico/) - Easy to use encryption using RSA and AES
 * [crypto.js](https://code.google.com/p/crypto-js/) - Implementations of standard and secure crypto algorithms
@@ -135,7 +136,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [d3](http://d3js.org/) - Data visualisation `featured`
 * [dancer](http://jsantell.github.io/dancer.js/) - Audio API (not working?)
 * [datejs](http://www.datejs.com/) - Date parsing and formatting
-* [dc.js](http://dc-js.github.io/dc.js/) - More charts
+* [dc.js](http://dc-js.github.io/dc.js/) - Charts with crossfilter support for large datasets
 * [depot.js](https://github.com/mkuklis/depot.js) - localStorage wrapper
 * [detectizr](https://github.com/barisaydinoglu/Detectizr) - A Modernizr extension to detect device, model, screensize, os and browser
 * [device.js](https://github.com/matthewhudson/device.js) - Device detection
