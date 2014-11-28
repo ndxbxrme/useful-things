@@ -462,6 +462,8 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [slidebars](http://plugins.adchsm.me/slidebars/) - App style revealing menus and sidebars
 * [slidejs](http://slidesjs.com/) - Responsive slideshow
 * [sly](http://darsa.in/sly/) - Item list and scrollbar replacement
+* [smith](https://github.com/c9/smith) - an RPC agent system for Node.JS `featured`
+* [smith.io](https://github.com/c9/smith.io) - Engine.io based transport layer using Smith for data encoding `featured`
 * [smoove](http://smoove.donlabs.com/) - Trigger events on scroll
 * [snap.svg](http://snapsvg.io/) - SVG library
 * [social-likes](http://sapegin.github.io/social-likes/) - Social Like buttons
