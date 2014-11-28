@@ -91,6 +91,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [analytics.js](https://segment.com/docs/libraries/analytics.js/) - Website analytics, freemium
 * [anijs](http://anijs.github.io/) - Simple declarative CSS animations
 * [animate.css](https://cdnjs.com/libraries/animate.css) - Easy to use css animations
+* [async.js](https://github.com/fjakobs/async.js) - Flattens asychronous callback stacks
 * [atmosphere](https://github.com/Atmosphere/atmosphere-javascript) - Asynchronous WebSocket/Comet framework
 * [audio5js](http://zohararad.github.io/audio5js/) - HTML5 audio API with flash fallback
 * [aurora.js](https://cdnjs.com/libraries/aurora.js) - Audio decoding framework
