@@ -47,7 +47,7 @@ links to useful things on the internet
 * [JSFiddle](http://jsfiddle.net/) - CSS/HTML/Javascript editor
 * [Lessico](http://lessi.co/) - Like JSFiddle
 * [JSApp.US](http://jsapp.us/) - Like JSFiddle for node/server stuff
-* [Cloud9](https://c9.io/) - As above but more involved
+* [Cloud9](https://c9.io/) - Hosted node IDE with debugging
 * [ShaderToy](http://www.shadertoy.com) - OpenGL fragment shaders
 * [jsoneditoronline](http://www.jsoneditoronline.org/) - JSON editor/formatter
 * [sqlformat](http://sqlformat.org/) - SQL formatter
