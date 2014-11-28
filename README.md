@@ -63,6 +63,7 @@ add the url as an external resource but append `&type=.css` to trick jsfiddle in
 * [jsDelivr](http://www.jsdelivr.com/) - large selection of Javascript/CSS libraries
 * [OSSCDN](http://osscdn.com/#/) - another large collection of libraries
 * [staticfile](http://www.staticfile.org/) - massive amount of libraries (renders in chinese on my computer)
+* [weloveiconfonts](http://weloveiconfonts.com/) - CDN just for icon fonts
 
 ###offline editors & utilities
 * [cmder](http://bliker.github.io/cmder/) - Fantastic command line replacement
