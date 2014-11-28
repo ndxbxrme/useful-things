@@ -1,6 +1,6 @@
 useful-things
 =============
-
+check out the new formatted/searchable version at [http://rainstormweb.com/useful](http://rainstormweb.com/useful)  
 links to useful things on the internet
 
 
