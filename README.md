@@ -181,6 +181,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [Froala Editor](http://editor.froala.com/) - WYSIWYG text editor `featured`
 * [fullcalendar](http://fullcalendar.io/) - Event calendar, there's an angular version too
 * [fuse.js](http://kiro.me/projects/fuse.html) - Fuzzy search
+* [fuzzaldrin](https://github.com/atom/fuzzaldrin) - Fuzzy filtering and string scroring
 * [galleria](http://galleria.io/) - Another gallery/lightbox
 * [galleriffic](http://www.twospy.com/galleriffic/) - Another gallery/lightbox
 * [garlic.js](http://garlicjs.org/) - Persist form values through refresh or browser close
@@ -443,6 +444,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [rimg](http://joeyvandijk.github.io/rimg/) - Responsive images for browsers that support mediaqueries
 * [s3colors](http://shaz3e.github.io/S3-Colors/) - CSS Colour classes
 * [sass.js](https://github.com/medialize/sass.js) - Sass parser
+* [scandal](https://github.com/atom/scandal) - Directory scan and searh for node
 * [screenfull.js](https://github.com/sindresorhus/screenfull.js) - Wrapper for Fullscreen API
 * [seedrandom](https://github.com/davidbau/seedrandom) - Seeded random number generator
 * [select2](http://ivaynberg.github.io/select2/) - Select replacement
