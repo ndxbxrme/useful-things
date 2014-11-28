@@ -54,6 +54,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [sqlformat](http://sqlformat.org/) - SQL formatter `featured`
 * [jsbeautifier](http://jsbeautifier.org/) - Javascript formatter 
 * [sassmeister](http://sassmeister.com/) - SASS playground
+* [Github Ribbons](http://codepo8.github.io/css-fork-on-github-ribbon/) - Pure CSS "fork me on github" ribbons
 
 
 ###CDNs
