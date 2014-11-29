@@ -32,6 +32,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [Awesome angular](https://github.com/gianarb/awesome-angularjs) - Large list of angular stuff  
 
 ###advice & tutorials
+* [Idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Really solid javascript styleguide
 * [Ampersands](http://simplebits.com/notebook/2008/08/14/ampersands-2/) - Use better ampersands
 * [SVG Animation](http://jakearchibald.com/2013/animated-line-drawing-svg/) - Animated SVG line drawing
 * [DevTools](http://devtoolstips.com/) - Chrome DevTools tips, updated regularly
