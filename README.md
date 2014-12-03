@@ -25,6 +25,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [Cubic Bezier Generator](http://cubic-bezier.com/#.91,.09,.83,.67) - generate nice curves
 * [Gradients Tool](http://www.westciv.com/tools/gradients/) - as on tin
 * [IconMelon](http://iconmelon.com/) - SVG icons `featured`
+* [SVGMorpheus](http://alexk111.github.io/SVG-Morpheus/) - Morphing SVG icons `featured`
 
 ###other lists
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
@@ -137,7 +138,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [Cubism.js](http://square.github.io/cubism/) - Time series charts
 * [cycle2](http://jquery.malsup.com/cycle2/) - Another slideshow/lightbox/gallery, this one is apparantly mobile friendly
 * [Cytoscape.js](http://cytoscape.github.io/cytoscape.js/) - Data visualisation
-* [d3](http://d3js.org/) - Data visualisation `featured`
+* [d3](http://d3js.org/) - Data visualisation `chart`
 * [dancer](http://jsantell.github.io/dancer.js/) - Audio API (not working?)
 * [datejs](http://www.datejs.com/) - Date parsing and formatting
 * [dc.js](http://dc-js.github.io/dc.js/) - Charts with crossfilter support for large datasets
