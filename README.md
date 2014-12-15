@@ -26,7 +26,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [Gradients Tool](http://www.westciv.com/tools/gradients/) - as on tin
 * [IconMelon](http://iconmelon.com/) - SVG icons `featured`
 * [SVGMorpheus](http://alexk111.github.io/SVG-Morpheus/) - Morphing SVG icons `featured`
-
+* [Open Font Library](http://openfontlibrary.org/) - Large collection of free to use fonts `featured`
 ###other lists
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
 * [Awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) - Big list of lists for all programming languages
@@ -77,7 +77,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [Heroku](https://www.heroku.com) - Gives you everything you need to build web apps `featured`
 
 ###APIs
-* [BrainTree](https://www.braintreepayments.com/) - Online payments (paypal etc) `featured`
+* [BrainTree](https://www.braintreepayments.com/) - Online payments (paypal etc)
 * [Mandrill](https://mandrill.com/) - Send emails
 
 ###testing
