@@ -95,6 +95,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [analytics.js](https://segment.com/docs/libraries/analytics.js/) - Website analytics, freemium
 * [anijs](http://anijs.github.io/) - Simple declarative CSS animations
 * [animate.css](https://cdnjs.com/libraries/animate.css) - Easy to use css animations `featured`
+* [angular-filter](https://github.com/a8m/angular-filter) - Useful filters for angular (with no external dependencies) `featured`
 * [async.js](https://github.com/fjakobs/async.js) - Flattens asychronous callback stacks `featured`
 * [atmosphere](https://github.com/Atmosphere/atmosphere-javascript) - Asynchronous WebSocket/Comet framework
 * [audio5js](http://zohararad.github.io/audio5js/) - HTML5 audio API with flash fallback
@@ -525,7 +526,7 @@ check out the new formatted/searchable version at [http://rainstormweb.com/usefu
 * [typeahead](http://twitter.github.io/typeahead.js/) - Autocomplete library
 * [uikit](http://getuikit.com/) - Front end framework
 * [underscore.string](http://epeli.github.io/underscore.string/) - String manipulation functions `featured`
-* [underscore](http://jashkenas.github.io/underscore/) - Object/Array manipulation functions `featured`
+* [underscore](http://jashkenas.github.io/underscore/) - Object/Array manipulation functions
 * [uniform](http://uniformjs.com/) - Form element styling
 * [unsemantic](http://unsemantic.com/) - Percentage based responsive CSS framework
 * [unveil](https://cdnjs.com/libraries/unveil) - Lazy load images
