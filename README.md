@@ -153,6 +153,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [dotdotdot](http://dotdotdot.frebsite.nl/) - Advanced ellipsis
 * [Dragabilly](http://draggabilly.desandro.com/) - Makes things draggable `featured`
 * [dygraphs](http://dygraphs.com/) - More charts
+* [echarts](http://echarts.baidu.com/index-en.html) - Baidu's powerful big data charting library
 * [elasticsearch](http://www.elasticsearch.org/overview/) - Search and analytics, goes with Logstash and Kibana appaz
 * [Embedly jQuery](http://embedly.github.io/embedly-jquery/) - Embed content properly
 * [engine.io](https://github.com/Automattic/engine.io) - Cross-browser/cross-device bi-directional communication layer for Socket.IO. `featured`
