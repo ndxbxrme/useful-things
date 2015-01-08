@@ -477,6 +477,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [smith](https://github.com/c9/smith) - an RPC agent system for Node.JS
 * [smith.io](https://github.com/c9/smith.io) - Engine.io based transport layer using Smith for data encoding `featured`
 * [smoove](http://smoove.donlabs.com/) - Trigger events on scroll
+* [snabbit](http://daniel-lundin.github.io/snabbt.js/index.html) - Lightweight JS animation library `featured`
 * [snap.svg](http://snapsvg.io/) - SVG library
 * [social-likes](http://sapegin.github.io/social-likes/) - Social Like buttons
 * [socket.io](http://socket.io/) - Websockets
