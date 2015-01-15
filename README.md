@@ -328,6 +328,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [kineticjs](http://kineticjs.com/) - High performance animations, transitions and more
 * [laddaUI](http://msurguy.github.io/ladda-bootstrap/) - Buttons with built in loading indicators (requires bootstrap)
 * [lazyload](https://github.com/rgrove/lazyload/) - Load javascript and CSS files on demand
+* [lazysites](https://github.com/aFarkas/lazysizes) - Lazily load images and more `featured`
 * [leaflet-dvf](http://humangeo.github.io/leaflet-dvf/) - Data visualization framework
 * [leaflet](http://leafletjs.com/) - Mobile-friendly interactive maps
 * [leapjs](https://developer.leapmotion.com/leapjs/welcome) - Client for the LeapMotion
