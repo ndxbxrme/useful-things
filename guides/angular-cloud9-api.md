@@ -1,5 +1,4 @@
 ##cloud9 angular with proxied api server
-
 ```
 npm install -g yo
 npm install -g generator-angular
@@ -32,62 +31,62 @@ var modRewrite = require('connect-modrewrite');
 watch: {
   options: {
     livereload: true
-    },
-    scripts: {
-      files: ['<%= yeoman.app %>/scripts/{,*/}*.js'],
-      tasks: ['newer:jshint:all']
-      },
-      css: {
-        files: ['<%= yeoman.app %>/styles/{,*/}*.{scss,sass}'],
-        tasks: ['compass:server', 'autoprefixer']
-        },
-        },  
-        ```
-        //add proxy config to the connect object
-        ```
-        proxies: [{
-          context: ['/api', '/socket.io'],
-          host: 'localhost',
-          port: 23232,
-          https: false,
-          changeOrigin: false
-          }],
-          options: {
-            port: process ? process.env.PORT : 9000,
-            hostname: process ? process.env.IP : 'localhost'
-            },
-            ```
-            //we are going to use 'test' config, so remove the port property and add these to the top of the middleware return object
-            ```
-            proxy,
-            modRewrite(['!\\.html|\\.js|\\.svg|\\.css|\\.png|\\.gif|\\.jpg|\\.ttf|\\.woff|\\.otf|\\.swf$ /index.html [L]']),
-            ```
-
-            //in copy, change {webp} to *    - line 331
-            ```
-            'fonts/{,*/}*.*'
-            ```
-            //disable imagemin - 356
-            ```
-            dist: [
-            'compass:dist',
-            //'imagemin',
-            //'svgmin'
-            ]
-
-            ```
-            //add proxy config to the start of grunt serve registerTask - line 379
-            ```
-            grunt.task.run([
-              'configureProxies',
-              ```
-              //change from livereload server to test server - line 398
-              ```
-              'connect:test',
-              ```
-              //make 3 cloud9 run configurations
-              ```
-              grunt - grunt serve
-              mongo - ./mongodc
-              api - ./server/app.js
-              ```
+  },
+  scripts: {
+    files: ['<%= yeoman.app %>/scripts/{,*/}*.js'],
+    tasks: ['newer:jshint:all']
+  },
+  css: {
+    files: ['<%= yeoman.app %>/styles/{,*/}*.{scss,sass}'],
+    tasks: ['compass:server', 'autoprefixer']
+  },
+},  
+```
+//add proxy config to the connect object
+```
+proxies: [{
+  context: ['/api', '/socket.io'],
+  host: 'localhost',
+  port: 23232,
+  https: false,
+  changeOrigin: false
+}],
+options: {
+  port: process ? process.env.PORT : 9000,
+  hostname: process ? process.env.IP : 'localhost'
+},
+```
+//we are going to use 'test' config, so remove the port property and add these to the top of the middleware return object
+```
+proxy,
+modRewrite(['!\\.html|\\.js|\\.svg|\\.css|\\.png|\\.gif|\\.jpg|\\.ttf|\\.woff|\\.otf|\\.swf$ /index.html [L]']),
+```              
+              
+//in copy, change {webp} to *    - line 331         
+```
+'fonts/{,*/}*.*'
+```
+//disable imagemin - 356
+```
+dist: [
+  'compass:dist',
+  //'imagemin',
+  //'svgmin'
+]
+      
+```
+//add proxy config to the start of grunt serve registerTask - line 379
+```
+grunt.task.run([
+'configureProxies',
+```      
+//change from livereload server to test server - line 398     
+```
+'connect:test',
+```   
+//make 3 cloud9 run configurations
+```
+grunt - grunt serve
+mongo - ./mongodc
+api - ./server/app.js
+```
