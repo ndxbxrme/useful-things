@@ -62,9 +62,9 @@ proxy,
 modRewrite(['!\\.html|\\.js|\\.svg|\\.css|\\.png|\\.gif|\\.jpg|\\.ttf|\\.woff|\\.otf|\\.swf$ /index.html [L]']),
 ```              
               
-//in copy, change {webp} to *    - line 331         
+//in copy, change {webp} to *    - line 330         
 ```
-'fonts/{,*/}*.*'
+'images/{,*/}*.*'
 ```
 //disable imagemin - 356
 ```
