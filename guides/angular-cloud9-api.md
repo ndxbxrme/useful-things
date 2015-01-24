@@ -16,7 +16,7 @@ npm install --save-dev connect-modrewrite
 mongod --nojournal --bind_ip=0.0.0.0 --dbpath=data --rest
 ```
 ```
-chmod a+a mongodc
+chmod a+x mongodc
 mkdir data
 ```
 gruntfile
