@@ -160,6 +160,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [echarts](http://echarts.baidu.com/index-en.html) - Baidu's powerful big data charting library
 * [elasticsearch](http://www.elasticsearch.org/overview/) - Search and analytics, goes with Logstash and Kibana appaz
 * [Embedly jQuery](http://embedly.github.io/embedly-jquery/) - Embed content properly
+* [Emscripten](http://kripken.github.io/emscripten-site/index.html) - Port C++ to javascript `featured`
 * [engine.io](https://github.com/Automattic/engine.io) - Cross-browser/cross-device bi-directional communication layer for Socket.IO. `featured`
 * [enquire.js](http://wicky.nillia.ms/enquire.js/) - Device/media detection
 * [entypo](http://entypo.com/) - Pictogram icons
