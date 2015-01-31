@@ -10,6 +10,7 @@
 * [Porting C++ to javascript](http://mozakai.blogspot.co.uk/2012/03/howto-port-cc-library-to-javascript.html)
 * [WebGL, C++ and emscripten](http://www.scottlogic.com/blog/2014/03/12/native-code-emscripten-webgl-simmer-gently.html)
 * [Decimal math for C++](https://github.com/vpiotr/decimal_for_cpp)
+* [Bulletphysics, realtime physics](http://bulletphysics.org/)
 
 ##general javascript
 * [is it numeric?](http://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric)
