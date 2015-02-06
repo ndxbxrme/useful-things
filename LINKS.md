@@ -19,3 +19,4 @@
 * [ocrad.js](https://github.com/antimatter15/ocrad.js)
 * [Tesseract](https://code.google.com/p/tesseract-ocr/)
 * [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS)
+* [ocropy](https://github.com/tmbdev/ocropy)
