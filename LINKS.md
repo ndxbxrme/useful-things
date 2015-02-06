@@ -20,3 +20,6 @@
 * [Tesseract](https://code.google.com/p/tesseract-ocr/)
 * [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS)
 * [ocropy](https://github.com/tmbdev/ocropy)
+
+##audio
+* [faust web audio](https://github.com/TheAlphaNerd/faust2webaudio)
