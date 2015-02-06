@@ -17,3 +17,4 @@
 
 ##ocr
 * [ocrad.js](https://github.com/antimatter15/ocrad.js)
+* [Tesseract-OCR-iOS](https://github.com/gali8/Tesseract-OCR-iOS)
