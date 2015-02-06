@@ -14,3 +14,6 @@
 
 ##general javascript
 * [is it numeric?](http://stackoverflow.com/questions/18082/validate-decimal-numbers-in-javascript-isnumeric)
+
+##ocr
+* [ocrad.js](https://github.com/antimatter15/ocrad.js)
