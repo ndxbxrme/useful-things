@@ -14,6 +14,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 ###collections of cool stuff
 * [Collective](http://tympanus.net/codrops/collective/) - A weekly dose of interesting and useful web resources `featured`
 * [Oozled](http://oozled.com/) - Cool things, nicely categorized
+* [Codepen Collections](http://codepen.io/collections/) - Lots of inspiration
 
 ###resources
 * [Subtle Patterns](http://subtlepatterns.com/) - Subtle, repeating patterns for backgrounds etc `featured`
@@ -42,6 +43,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [DevTools](http://devtoolstips.com/) - Chrome DevTools tips, updated regularly
 * [CSS Centering](http://css-tricks.com/centering-css-complete-guide/) - Complete guide to centering vertically & horizontally in CSS
 * [DevTools Tips&Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks) - Google guide for devtools
+* [SVG Codepen Collection](http://codepen.io/collection/AYyMOr/) - Collection of pens that demonstrate SVG features
 
 ###videos
 * [MongoDB Schema Design](https://www.youtube.com/watch?v=PIWVFUtBV1Q) - How to think in a non-relational way. `featured`
