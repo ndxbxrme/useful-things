@@ -44,8 +44,8 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [CSS Centering](http://css-tricks.com/centering-css-complete-guide/) - Complete guide to centering vertically & horizontally in CSS
 * [DevTools Tips&Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks) - Google guide for devtools
 * [SVG Codepen Collection](http://codepen.io/collection/AYyMOr/) - Collection of pens that demonstrate SVG features
-* [Chromium Projects Web Development Guide](http://dev.chromium.org/developers/web-development-style-guide) - Frontend implementation guide @ Chromium Projects
-* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) - err
+* [Chromium Projects Web Development Guide](http://dev.chromium.org/developers/web-development-style-guide) - Frontend implementation guide for The Chromium Projects
+* [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) - That pretty much says it
 
 ###videos
 * [MongoDB Schema Design](https://www.youtube.com/watch?v=PIWVFUtBV1Q) - How to think in a non-relational way. `featured`
