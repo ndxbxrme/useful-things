@@ -92,6 +92,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 
 ###testing
 * [ScreenQueries](http://beta.screenqueri.es/) - Test responsive designs across 60+ viewports
+* [BackstopJS](http://garris.github.io/BackstopJS/) - Responsive testing, integrates into build process
 
 ###interesting jsFiddler'z
 * [csswizardry](http://jsfiddle.net/user/csswizardry/fiddles/) - nicely documented CSS experiments
@@ -115,6 +116,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [backstretch](http://srobbin.com/jquery-plugins/backstretch/) - Fullsize backgrounds/slideshow
 * [bacon.js](https://github.com/baconjs/bacon.js) - Events as a stream, `needs more looking in to`
 * [basics.css](https://github.com/haydenbleasel/basics) - Intelligent default styles
+* [BassCSS](http://www.basscss.com/docs/principles/) - lightweight base element styles, modules and utilities; speedy and scalable. 
 * [bignumber.js](http://mikemcl.github.io/bignumber.js/) - Arbitrary-precision arithmetic
 * [bitcoin.js](http://bitcoinjs.org/) - Javascript bitcoin library
 * [blueimp md5](https://github.com/blueimp/JavaScript-MD5) - MD5 for both browser and node
