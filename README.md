@@ -113,6 +113,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [audio5js](http://zohararad.github.io/audio5js/) - HTML5 audio API with flash fallback
 * [aurora.js](https://cdnjs.com/libraries/aurora.js) - Audio decoding framework
 * [autosize](http://www.jacklmoore.com/autosize/) - Resize textarea height based on user input
+* [awesomplete](http://leaverou.github.io/awesomplete/) - Awesome autocomplete for inputs and textareas
 * [aws-sdk](https://github.com/aws/aws-sdk-js) - Amazon AWS SDK for the browser and node.js
 * [backstretch](http://srobbin.com/jquery-plugins/backstretch/) - Fullsize backgrounds/slideshow
 * [bacon.js](https://github.com/baconjs/bacon.js) - Events as a stream, `needs more looking in to`
