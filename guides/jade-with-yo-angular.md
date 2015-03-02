@@ -52,7 +52,7 @@ add the jade task to all three *concurrent* build tasks
             ]
         },
 ```
-if you aren't using grunt-angular-templates then add an option to *htmlmin*
+if you aren't using [grunt-angular-templates](https://github.com/ndxbxrme/useful-things/blob/newmain/guides/packaging-angular-templates.md) then add an option to *htmlmin*
 ```javascript
     htmlmin: {
       dist: {
