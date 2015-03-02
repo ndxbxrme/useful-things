@@ -1,4 +1,6 @@
 #packaging angular templates
+packages all your angular views into your scripts.js file which is cool for a whole bunch of reasons.  
+should play nicely with [jade angular](https://github.com/ndxbxrme/useful-things/blob/newmain/guides/jade-with-yo-angular.md)
 ```
 npm install --save-dev grunt-angular-templates
 ```
