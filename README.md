@@ -339,6 +339,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [keymaster](https://github.com/madrobby/keymaster) - Hotkey micro-library
 * [kibo](https://github.com/marquete/kibo) - Key binding library
 * [kineticjs](http://kineticjs.com/) - High performance animations, transitions and more
+* [knwl](http://loadfive.com/os/knwl/) - Parse text and extract Dates, Places, Telephone numbers and more `featured`
 * [laddaUI](http://msurguy.github.io/ladda-bootstrap/) - Buttons with built in loading indicators (requires bootstrap)
 * [lazyload](https://github.com/rgrove/lazyload/) - Load javascript and CSS files on demand
 * [lazysites](https://github.com/aFarkas/lazysizes) - Lazily load images and more `featured`
