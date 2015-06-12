@@ -31,6 +31,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [Runnable NodeJS list](http://runnable.com/?filter=Node.js&page=1&orderBy=popular) - Great resource for NodeJS / Express / Mongo `featured`
 * [TintUI](http://tintui.com/) - All the modern colours
 * [Sache](http://www.sache.in/) - Like NPM for SASS.  Lots of extensions and mixins.
+* [Angular Modules](http://ngmodules.org/popular) - Tonnes of angular directives and other fun things `featured`
 
 ###other lists
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
