@@ -18,8 +18,9 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 
 ###resources
 * [Subtle Patterns](http://subtlepatterns.com/) - Subtle, repeating patterns for backgrounds etc `featured`
-* [Unsplash](https://unsplash.com/) - Free, high quality stock photos `photo,image,placeholder,stock,free,featured`
+* [Unsplash](https://unsplash.com/) - Free, high quality stock photos `photo,image,placeholder,stock,free`
 * [Unsplash.it](https://unsplash.it/) - Random placeholder images from unsplash
+* [Pexels.com](http://www.pexels.com/) - Free stock photo aggregator with search `photo,image,placeholder,stock,free,featured`
 * [Typ.IO](http://www.typ.io/) - fonts that go together
 * [CSS Filters](http://css-tricks.com/almanac/properties/f/filter/) - CSS Filter Reference
 * [CSS Font Stack](http://cssfontstack.com/) - handy font stacks
