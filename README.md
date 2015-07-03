@@ -70,6 +70,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [Github Ribbons](http://codepo8.github.io/css-fork-on-github-ribbon/) - Pure CSS "fork me on github" ribbons
 * [bounce.js](http://bouncejs.com/) - Beautiful CSS3 powered animations
 * [Runnable](http://runnable.com/) - Online Node etc runner.
+* [Gitignore.io](https://www.gitignore.io/) - Useful .gitignore file creator
 
 ###other online tools
 * [PicSVG](http://picsvg.com/) - Convert images to SVGs
