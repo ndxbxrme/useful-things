@@ -524,7 +524,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [tabletop](https://github.com/jsoma/tabletop) - Takes a Google Spreadsheet and makes it accessible to JS
 * [taffydb](http://www.taffydb.com/) - Brings database features to Javascript applications
 * [tagsmanager](http://welldonethings.com/tags/manager/v3) - Tag input element
-* [textangular](https://textangular.com/) - Angular WYSIWYG editor
+* [textangular](http://textangular.com/) - Angular WYSIWYG editor
 * [threejs](http://threejs.org/) - OpenGL 3D library
 * [timeago](http://timeago.yarp.com/) - Makes fuzzy timestamps (e.g. "about 1 day ago")
 * [timeline](http://timeline.knightlab.com/) - Interactive timelines
