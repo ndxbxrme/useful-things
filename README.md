@@ -469,6 +469,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [revealjs](http://lab.hakim.se/reveal-js/#/) - HTML presentations
 * [rickshaw](http://code.shutterstock.com/rickshaw/) - Interactive realtime graphs
 * [rimg](http://joeyvandijk.github.io/rimg/) - Responsive images for browsers that support mediaqueries
+* [robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation. Control the mouse, keyboard, and read the screen.`featured`
 * [s3colors](http://shaz3e.github.io/S3-Colors/) - CSS Colour classes
 * [sass.js](https://github.com/medialize/sass.js) - Sass parser
 * [scandal](https://github.com/atom/scandal) - Directory scan and searh for node
