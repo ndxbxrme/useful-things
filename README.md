@@ -363,6 +363,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [log4javascript](http://log4javascript.org/) - Logging tools
 * [loglevel](http://pimterry.github.io/loglevel/) - Minimal logging
 * [lunr.js](http://lunrjs.com/) - Full text search
+* [lumx](http://ui.lumapps.com/) - Angular and Material Design framework
 * [machina.js](http://machina-js.org/) - Finite state machine
 * [magnific-popup](http://dimsemenov.com/plugins/magnific-popup/) - Another lightbox
 * [markdown.js](https://github.com/evilstreak/markdown-js/) - Markdown parser
