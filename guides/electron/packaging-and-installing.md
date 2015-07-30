@@ -1,6 +1,6 @@
 #Packaging your app
 starting with an electron app eg. the one from getting-started  
-install electron-packager
+install [electron-packager](https://github.com/maxogden/electron-packager)
 ```bash
 npm install -g electron-packager
 ```
