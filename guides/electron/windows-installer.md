@@ -1,6 +1,6 @@
 #Making a windows installer
 starting with a packaged app  
-alter `main.coffee`
+alter `main.coffee` by adding the following
 ```coffeescript
 path = require 'path'
 
