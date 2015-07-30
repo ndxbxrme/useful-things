@@ -8,7 +8,7 @@ find out your version of electron by running
 ```bash
 electron -v
 ```
-and use that version number in the next command (also replace `AppName` with your app's name and choose the platforms you are targetting)
+and use that version number in the next command (replace `AppName` with your app's name and choose the platforms you are targetting)
 ```bash
 electron-packager ./ getting-started --platform=all --arch=all --version=0.30.1 --out=release
 ```
