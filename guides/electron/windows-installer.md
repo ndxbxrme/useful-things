@@ -1,5 +1,6 @@
 #Making a windows installer
-starting with a packaged app  
+starting with a basic app  
+`warning: keep the app exe name short or windows will complain`
 alter `main.coffee` by adding the following
 ```coffeescript
 path = require 'path'
@@ -30,6 +31,10 @@ handleStartupEvent = ->
 if handleStartupEvent()
   return
 ```
+[package](https://github.com/ndxbxrme/useful-things/blob/newmain/guides/electron/packaging-your-app.md) your app
+```bash
+electron-packager ./ getting-started --platform=all --arch=all --version=0.30.1 --out=release
+```
 make `Gruntfile.coffee`
 ```coffeescript
 module.exports = (grunt) ->
@@ -37,10 +42,10 @@ module.exports = (grunt) ->
   grunt.initConfig
     'create-windows-installer':
       x64:
-        appDirectory: 'release/getting-started-win32-x64'
+        appDirectory: 'release/appName-win32-x64'
         outputDirectory: 'release/installer64'
         authors: 'ndxbxrme'
-        exe: 'getting-started.exe'
+        exe: 'appName.exe'
         description: 'my first installer app'
 ```
 make sure you have [Grunt](http://gruntjs.com/) installed
