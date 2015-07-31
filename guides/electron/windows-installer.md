@@ -33,7 +33,7 @@ if handleStartupEvent()
 ```
 [package](https://github.com/ndxbxrme/useful-things/blob/newmain/guides/electron/packaging-your-app.md) your app
 ```bash
-electron-packager ./ getting-started --platform=all --arch=all --version=0.30.1 --out=release
+electron-packager ./ appName --platform=win32 --arch=all --version=0.30.1 --out=release/
 ```
 make `Gruntfile.coffee`
 ```coffeescript
