@@ -1,6 +1,6 @@
 #Making a windows installer
 starting with a basic app  
-`warning: keep the app exe name short or windows will complain`
+`warning: keep the app exe name short or windows will complain`  
 alter `main.coffee` by adding the following
 ```coffeescript
 path = require 'path'
