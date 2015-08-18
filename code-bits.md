@@ -6,3 +6,4 @@
 * [Pure CSS Navigation](http://codepen.io/rgg/pen/mJEOQJ) `html`, `scss`
 * [Pure CSS Dropdown](http://codepen.io/rgg/pen/PqPdeq) `html`, `scss`
 * [Full page parallax website effect](http://codepen.io/eehayman/pen/qdGZJr) `html`, `scss`, `js`
+* [Fancy CSS Progress bars](http://codepen.io/rgg/pen/QbRyOq) `html`, `scss`
