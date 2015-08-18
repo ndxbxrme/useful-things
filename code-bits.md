@@ -5,3 +5,4 @@
 * [CSS Pseudo Selector demo](http://codepen.io/rachel_web/pen/RPOxxR) `html`, `scss`
 * [Pure CSS Navigation](http://codepen.io/rgg/pen/mJEOQJ) `html`, `scss`
 * [Pure CSS Dropdown](http://codepen.io/rgg/pen/PqPdeq) `html`, `scss`
+* [Full page parallax website effect](http://codepen.io/eehayman/pen/qdGZJr) `html`, `scss`, `js`
