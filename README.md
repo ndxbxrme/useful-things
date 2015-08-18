@@ -530,6 +530,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [tagsmanager](http://welldonethings.com/tags/manager/v3) - Tag input element
 * [textangular](http://textangular.com/) - Angular WYSIWYG editor
 * [threejs](http://threejs.org/) - OpenGL 3D library
+* [tilt.js](http://rikschennink.github.io/tilt/) - Simulates touch feedback on HTML elements
 * [timeago](http://timeago.yarp.com/) - Makes fuzzy timestamps (e.g. "about 1 day ago")
 * [timeline](http://timeline.knightlab.com/) - Interactive timelines
 * [tinycolor](http://bgrins.github.io/TinyColor/) - Colour manipulation and conversion
