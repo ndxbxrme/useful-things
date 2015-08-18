@@ -144,6 +144,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [chartjs](http://www.chartjs.org/) - HTML5 charts
 * [chosen](http://harvesthq.github.io/chosen/) - Select replacement
 * [Chroma.js](https://github.com/gka/chroma.js) - Colour conversion and manipulation
+* [Circulus.svg](http://sarasoueidan.com/tools/circulus/) - SVG Circular menus `featured`
 * [CKEditor](http://ckeditor.com/) - Rich text editor
 * [CodeMirror](http://codemirror.net/) - Code editor
 * [colorbox](http://www.jacklmoore.com/colorbox/) - Another lightbox/gallery
