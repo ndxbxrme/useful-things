@@ -99,6 +99,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 ###testing
 * [ScreenQueries](http://beta.screenqueri.es/) - Test responsive designs across 60+ viewports
 * [BackstopJS](http://garris.github.io/BackstopJS/) - Responsive testing, integrates into build process
+* [Big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Big list of strings that cause problems when used as user input
 
 ###interesting jsFiddler'z
 * [csswizardry](http://jsfiddle.net/user/csswizardry/fiddles/) - nicely documented CSS experiments
