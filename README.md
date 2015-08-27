@@ -4,7 +4,7 @@ links to useful things on the internet
 check out the new formatted/searchable version at [http://www.rainstormweb.com/useful](http://www.rainstormweb.com/useful)  
 
 
-
+* [rimraf](https://github.com/isaacs/rimraf) - The UNIX command rm -rf for node; deletes big folders like node_modules with no quibbles
 * [RegExr](http://www.regexr.com/) - helps with regular expressions
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj) chrome extension; with this installed you can r-click and lassoo any or all the above links, and they'll each open in new tabs
 * [Bulk URL Opener](http://melanto.com/apps/bulk-url-opener/) - drop a list of urls into it and hey presto.. good if you want to create a particular workspace / toolset from a pre-prepared list
