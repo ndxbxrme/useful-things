@@ -51,6 +51,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [Chromium Projects Web Development Guide](http://dev.chromium.org/developers/web-development-style-guide) - Frontend implementation guide for The Chromium Projects
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml) - That pretty much says it
 * [Make your own webfont](http://demosthenes.info/blog/623/Make-Your-Own-Webfont)
+* [A Complete Guide to Flexbox] (https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ###videos
 * [MongoDB Schema Design](https://www.youtube.com/watch?v=PIWVFUtBV1Q) - How to think in a non-relational way. `featured`
