@@ -97,6 +97,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 ###APIs
 * [BrainTree](https://www.braintreepayments.com/) - Online payments (paypal etc)
 * [Mandrill](https://mandrill.com/) - Send emails
+* [Algolia](https://www.algolia.com/) - Search API that delivers instant and relevant results
 
 ###testing
 * [ScreenQueries](http://beta.screenqueri.es/) - Test responsive designs across 60+ viewports
