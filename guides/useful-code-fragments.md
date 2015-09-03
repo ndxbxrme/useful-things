@@ -28,6 +28,15 @@
   update: (userId, profile, fields, modifier) ->
     profile.userId is userId or Meteor.user().roles.indexOf('admin') isnt -1
 ```
+### meteor accounts
+* Add roles to user
+```coffeescript
+Accounts.onCreateUser (options, user) ->
+  Roles.addUsersToRoles user._id, ['adviser']
+  if options.profile
+    user.profile = options.profile
+  user
+```
 ### directives
 * Validate a UK postcode
 ```coffeescript
