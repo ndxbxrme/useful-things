@@ -19,6 +19,6 @@
     resolve:
       currentUser: ['$meteor', ($meteor) ->
         $meteor.requireValidUser (user) ->
-          user.roles.indexOf('admin') isnt -1
+          user.roles and user.roles.indexOf('admin') isnt -1
       ]
 ```
