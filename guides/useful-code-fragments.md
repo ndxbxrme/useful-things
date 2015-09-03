@@ -31,7 +31,7 @@
 ### directives
 * Validate a UK postcode
 ```coffeescript
-.directive 'postcode', [() ->
+.directive 'postcode', ->
   {
     restrict: 'EA'
     require: 'ngModel'
@@ -42,5 +42,4 @@
           ngModel.$setValidity 'postcode', m?.length > 0
         val
   }
-]
 ```
