@@ -1,6 +1,7 @@
 # meteor packages i use and like
 
 * accounts-github
+* bozhao:link-accounts
 * todda00:friendly-slugs
 * alanning:roles
 * ndxbxrme:modified
@@ -11,6 +12,5 @@
 * spectrum:material-design-lite
 * underscorestring:underscore.string
 * chrismbeckett:toastr
-* bozhao:link-accounts
 * mrt:modernizr-meteor
 * http
