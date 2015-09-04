@@ -19,14 +19,14 @@
     resolve:
       currentUser: ['$meteor', ($meteor) ->
         $meteor.requireValidUser (user) ->
-          user.roles and user.roles.indexOf('admin') isnt -1
+          Roles.userIsInRole(userId, ['admin'])
       ]
 ```
 ### meteor angular model
 * Allow update for doc owner or admin
 ```coffeescript
   update: (userId, profile, fields, modifier) ->
-    profile.userId is userId or Meteor.user().roles.indexOf('admin') isnt -1
+    profile.userId is userId or Roles.userIsInRole(userId, ['admin'])
 ```
 ### meteor accounts
 * Add roles to user
