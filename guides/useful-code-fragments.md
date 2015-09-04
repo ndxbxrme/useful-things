@@ -32,7 +32,8 @@
 * Add roles to user
 ```coffeescript
 Accounts.onCreateUser (options, user) ->
-  Roles.addUsersToRoles user._id, ['adviser']
+  Meteor.setTimeout ->
+    Roles.addUsersToRoles user._id, ['adviser']
   if options.profile
     user.profile = options.profile
   user
