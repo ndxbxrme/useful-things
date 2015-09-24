@@ -34,6 +34,9 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [Sache](http://www.sache.in/) - Like NPM for SASS.  Lots of extensions and mixins.
 * [Angular Modules](http://ngmodules.org/popular) - Tonnes of angular directives and other fun things `featured`
 * [Twitstrap resources](https://twittstrap.com/category/resources/) - Many interesting resources, components and modules
+* [UI Faces](http://uifaces.com/) - Real world user images for mockups
+* [Startup Stock Photos](http://startupstockphotos.com/) - Stock photos of startup type people doing startupish things
+* [finda.photo](http://finda.photo/) - Very large collection of Stock photos
 
 ###other lists
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
