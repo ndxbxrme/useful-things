@@ -37,6 +37,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [UI Faces](http://uifaces.com/) - Real world user images for mockups
 * [Startup Stock Photos](http://startupstockphotos.com/) - Stock photos of startup type people doing startupish things
 * [finda.photo](http://finda.photo/) - Very large collection of Stock photos
+* [WildTextures](http://www.wildtextures.com/) - Free repeating photo textures
 
 ###other lists
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
