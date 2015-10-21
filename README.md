@@ -38,6 +38,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [Startup Stock Photos](http://startupstockphotos.com/) - Stock photos of startup type people doing startupish things
 * [finda.photo](http://finda.photo/) - Very large collection of Stock photos
 * [WildTextures](http://www.wildtextures.com/) - Free repeating photo textures, backgrounds and patterns for designers
+* [CSS Reference](http://tympanus.net/codrops/css_reference/#section_css-pseudo-class) - Nice CSS documentation from Codrops
 
 ###other lists
 * [GameDev Magic Tools](https://github.com/ellisonleao/magictools) - Game Development tools list
