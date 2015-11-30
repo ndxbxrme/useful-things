@@ -325,6 +325,7 @@ check out the new formatted/searchable version at [http://www.rainstormweb.com/u
 * [jquery-treegrid](http://maxazan.github.io/jquery-treegrid/) - Tree grid element
 * [jquery-tubeplayer](https://github.com/nirvanatikku/jQuery-TubePlayer-Plugin) - jQuery wrapper around youtube API
 * [jquery.devbridge-autocomplete](http://www.devbridge.com/sourcery/components/jquery-autocomplete/) - Ajax autocomplete
+* [jquery-adaptive-background](http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - extract dominant colors from image and apply to parent.
 * [jquery.mask](http://igorescobar.github.io/jQuery-Mask-Plugin/) - Masked inputs
 * [jquery.nicescroll](https://cdnjs.com/libraries/jquery.nicescroll) - Customizable scrollbars
 * [jquerymobile](http://jquerymobile.com/) - Mobile app framework
