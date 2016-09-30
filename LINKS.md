@@ -23,3 +23,10 @@
 
 ##audio
 * [faust web audio](https://github.com/TheAlphaNerd/faust2webaudio)
+
+##interesting looking repos
+* [Native Node bindings to Git](https://github.com/orderedlist/nodegit)
+* [Micro client-side router](https://github.com/visionmedia/page.js)
+* [Superagent - Ajax with less suck](https://github.com/visionmedia/superagent)
+* [Cheerio - Serverside JQuery](https://github.com/cheeriojs/cheerio)
+
