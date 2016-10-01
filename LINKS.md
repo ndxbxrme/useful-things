@@ -29,4 +29,4 @@
 * [Micro client-side router](https://github.com/visionmedia/page.js)
 * [Superagent - Ajax with less suck](https://github.com/visionmedia/superagent)
 * [Cheerio - Serverside JQuery](https://github.com/cheeriojs/cheerio)
-
+* [Watch changes on an object](https://github.com/melanke/Watch.JS)
