@@ -30,3 +30,4 @@
 * [Superagent - Ajax with less suck](https://github.com/visionmedia/superagent)
 * [Cheerio - Serverside JQuery](https://github.com/cheeriojs/cheerio)
 * [Watch changes on an object](https://github.com/melanke/Watch.JS)
+* [Finite state machine](https://github.com/jakesgordon/javascript-state-machine)
