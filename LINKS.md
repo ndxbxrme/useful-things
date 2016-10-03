@@ -31,3 +31,7 @@
 * [Cheerio - Serverside JQuery](https://github.com/cheeriojs/cheerio)
 * [Watch changes on an object](https://github.com/melanke/Watch.JS)
 * [Finite state machine](https://github.com/jakesgordon/javascript-state-machine)
+* [Monkey-patch functions](https://github.com/cowboy/javascript-hooker)
+* [Quick and dirty signatures for Objects](https://github.com/isaacs/sigmund)
+* [Toolkit for rapidly building command line apps](https://github.com/node-js-libs/cli)
+
