@@ -36,3 +36,4 @@
 * [Toolkit for rapidly building command line apps](https://github.com/node-js-libs/cli)
 * [Strip JSON Comments](https://github.com/sindresorhus/strip-json-comments)
 * [Find the first file matching a given pattern in the current directory or the nearest ancestor directory.](https://github.com/cowboy/node-findup-sync)
+* [ms.js: miliseconds conversion utility](https://github.com/guille/ms.js)
