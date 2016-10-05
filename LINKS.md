@@ -34,4 +34,4 @@
 * [Monkey-patch functions](https://github.com/cowboy/javascript-hooker)
 * [Quick and dirty signatures for Objects](https://github.com/isaacs/sigmund)
 * [Toolkit for rapidly building command line apps](https://github.com/node-js-libs/cli)
-
+* [Strip JSON Comments](https://github.com/sindresorhus/strip-json-comments)
