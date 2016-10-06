@@ -37,3 +37,11 @@
 * [Strip JSON Comments](https://github.com/sindresorhus/strip-json-comments)
 * [Find the first file matching a given pattern in the current directory or the nearest ancestor directory.](https://github.com/cowboy/node-findup-sync)
 * [ms.js: miliseconds conversion utility](https://github.com/guille/ms.js)
+* [JavaScript AST modification library](https://github.com/SBoudrias/AST-query)
+* [Simplified HTTP/HTTPS requests](https://github.com/sindresorhus/got)
+* [Get a GitHub username from an email address](https://github.com/sindresorhus/github-username)
+* [Set of utilities to update HTML files](https://github.com/yeoman/html-wiring)
+* [extend like a boss](https://github.com/Raynos/xtend)
+* [Get the path to the user home directory](https://github.com/sindresorhus/user-home)
+* [alters a string by replacing multiple range fragments in one fast pass](https://github.com/olov/alter)
+
