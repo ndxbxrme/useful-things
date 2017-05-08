@@ -1,4 +1,5 @@
-# docker notes
+# docker notes  
+some of these commands are windows specific, sorry  
 ### docker machine
 start docker machine  
 `docker-machine start`  
