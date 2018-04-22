@@ -24,14 +24,14 @@
   ...
   app.on 'ready', ->
     autoUpdater.checkForUpdatesAndNotify() 
-* if you don't already have one get a github token with repo access from https://github.com/settings/tokens/new and set it as the environment variable `GH_TOKEN`  
+* if you don't already have one get a github token with repo access from https://github.com/settings/tokens/new and set it as the environment variable `GH_TOKEN` on your local machine
 * update version number, push to github and publish a draft release
-```bash
-  npm version patch --no-git-tag-version
-  git add --all
-  git commit -m "my release"
-  git push origin master
-  npm run pack
-```
+  ```bash
+    npm version patch --no-git-tag-version
+    git add --all
+    git commit -m "my release"
+    git push origin master
+    npm run pack
+  ```
 * go to the releases section near the top of your github repo mainpage and publish the draft that has been created
 * you are done, go home and schleeeep weeeeell
